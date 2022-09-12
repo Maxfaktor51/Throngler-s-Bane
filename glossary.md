@@ -23,6 +23,14 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 ## C
 
+> ### Cult of Silence
+> ...
+> 
+> [read more](./cultofsilence.md)
+
+> ### Cleansing Wind
+> ...
+
 ---
 
 ## D
@@ -55,6 +63,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ...
 > 
 > [read more](./pantheon.md#erebos-god-of-the-dead)
+
+> ### Eternal Army
+> ...
+>
+> [read more](./eternalarmy.md)
 
 ---
 
@@ -148,6 +161,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Malara River
 > ...
 
+> ### Mellisanthé the Cruel
+> ...
+>
+> [read more](./mellisanthe.md)
+
 > ### Mogis
 > ...
 > 
@@ -172,6 +190,8 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 > ### Pantheon
 > ...
+>
+> [read more](./pantheon.md)
 
 > ### Pharika
 > ...
@@ -182,6 +202,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ...
 > 
 > [read more](./pantheon.md#phenax-god-of-deception)
+
+> ### Prince Morbogh of Eternal Doom
+> ...
+>
+> [read more](./morbogh.md)
 
 > ### Purphoros
 > ...
@@ -215,7 +240,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Summer Sea
 > ...
 > 
-> [read more](./summer_sea.md)
+> [read more](./summersea.md)
 
 ---
 
@@ -228,6 +253,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 > ### Three Kingdom War
 > ...
+
+> ### The Throngler
+> ...
+>
+> [read more](./throngler.md)
 
 ---
 
