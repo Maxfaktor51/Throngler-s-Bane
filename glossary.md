@@ -24,12 +24,12 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## C
 
 > ### Cult of Silence
-> ...
+> The Cult of Silence is a mysterious organisation that works in the shadows to execute their master plan.
 > 
 > [read more](./cultofsilence.md)
 
 > ### Cleansing Wind
-> ...
+> The Cleansing Wind is a powerful storm send by the gods themselves to purge the summer sea. Some believe the storm is formed around a magical beast in the center of it while other say the storm itself is sentient.
 
 ---
 
@@ -42,10 +42,12 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > Considered blasphemy by the general public, the Darkness before Time is considered to be the time period before the Gods even created the World. 
 
 > ### Days of Rain of Fire and Death
-> ...
+> Believed to have been caused by an arrow striking the Sun God's eye, countless flaming rocks fell from the heavens during the Days of Rain of Fire and Death, burning down fields and villages as well as damaging fortifications and causing incredible suffering throughout the Summer Sea.
 
 > ### Desert of Certain Death
-> ...
+> The Desert of Certain Death lies in the south east of the Summer Sea and, as the name suggests, has claimed the lives of many adventurers who dared to enter this sea of sand. 
+>
+> [read more](./summersea.md#desert-of-certain-death)
 
 ---
 
