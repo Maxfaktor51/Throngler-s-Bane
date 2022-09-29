@@ -12,7 +12,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Athreos
 > Athreos is the lawful evil God of Passage, symbolized by the crescent moon.
 > 
-> [read more](./pantheon.md#athreos-god-of-passage)
+> [read more](./pantheon.md#athreos)
 
 
 ---
@@ -34,27 +34,31 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > Considered blasphemy by the general public, the Darkness before Time is considered to be the time period before the Gods even created the World. 
 
 > ### Days of Rain of Fire and Death
-> ...
+> Initiated by an arrow launched into the Sun God's eye, flaming meteors from fallking from the sky during the Days of Rain of Fire and Death brought destruction upon all of the Summer Sea. 
 
 > ### Desert of Certain Death
-> ...
+> The desert of Cartain Death marks the southern borders of the lands of the Summer Sea. Only a few brave adventurers manage to escape the scorching heat and ruthless sandstorms telling tales of cruel monsters and strange magic lurking in the dunes.
+>
+> [read more](./summer_sea.md#desert-of-certain-death)
 
 ---
 
 ## E
 
 > ### Ebóla River
-> ...
+> The Ebóla River is the second longest river flowing into the northern parts of the Marshes of Malaria. Infested with many dangerous animals it remains a favorite target for trophy hunters.
+>
+> [read more](./summer_sea.md#marshes-of-malaria)
 
 > ### Ephara
-> ...
+> Ephara is the lawful good Goddess of Culture and Civics, symbolized by a golden column.
 > 
-> [read more](./pantheon.md#ephara-god-of-the-polis)
+> [read more](./pantheon.md#ephara)
 
 > ### Erebos
-> ...
+> Erebos is the neutral evil God of the Dead, symbolized by a purple flamed torch.
 > 
-> [read more](./pantheon.md#erebos-god-of-the-dead)
+> [read more](./pantheon.md#erebos)
 
 ---
 
@@ -65,7 +69,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## G
 
 > ### Gate to Oblivion
-> ...
+> The Gate to Oblivion is a giant hole in the ground between Okeanopolis and Barnaclae. None who ventured into it's dark depths have returned and their names forgotten with time.
+>
+> [read more](./summer_sea.md#gate-to-oblivion)
 
 > ### Great Canyon of Corpses
 > ...

@@ -9,63 +9,78 @@ While all gods have their dedicated priests and followers, the average mortal li
 ---
 ![Athreos guiding the dead to the moon](./images/img0054.png)
 
-## Athreos, God of Passage
+## Athreos
+**God of Passage**
 
 ---
 
-## Ephara, God of the Polis
+## Ephara
+**God of Culture and Civics**
 
 ---
 
-## Erebos, God of the Dead
+## Erebos
+**God of the Dead**
 
 ---
 
-## Heliod, God of the Sun
+## Heliod
+**God of the Sun**
 
 ---
 
-## Iroas, God of Victory
+## Iroas
+**God of Victory**
 
 ---
 
-## Karametra, God of Harvests
+## Karametra
+**God of Harvests**
 
 ---
 
-## Keranos, God of Storms
+## Keranos
+**God of Storms**
 
 ---
 
-## Klothys, God of Destiny
+## Klothys
+**God of Destiny**
 
 ---
 
-## Kruphix, God of Horizons
+## Kruphix
+**God of Horizons**
 
 ---
 
-## Mogis, God of Slaugther
+## Mogis
+**God of Slaugther**
 
 ---
 
-## Nylea, God of the Hunt
+## Nylea
+**God of the Hunt**
 
 ---
 
-## Pharika, God of Affliction
+## Pharika
+**God of Affliction**
 
 ---
 
-## Phenax, God of Deception
+## Phenax
+**God of Deception**
 
 ---
 
-## Purphoros, God of the Forge
+## Purphoros
+**God of the Forge**
 
 ---
 
-## Thassa, God of the Sea
+## Thassa
+**God of the Sea**
 
 ---
 ## Further Reading
