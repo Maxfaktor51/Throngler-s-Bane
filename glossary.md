@@ -12,7 +12,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Athreos
 > Athreos is the lawful evil God of Passage, symbolized by the crescent moon.
 > 
-> [read more](./pantheon.md#athreos-god-of-passage)
+> [read more](./pantheon.md#athreos)
 
 
 ---
@@ -54,17 +54,19 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## E
 
 > ### Ebóla River
-> ...
+> The Ebóla River is the second longest river flowing into the northern parts of the Marshes of Malaria. Infested with many dangerous animals it remains a favorite target for trophy hunters.
+>
+> [read more](./summer_sea.md#marshes-of-malaria)
 
 > ### Ephara
-> ...
+> Ephara is the lawful good Goddess of Culture and Civics, symbolized by a golden column.
 > 
-> [read more](./pantheon.md#ephara-god-of-the-polis)
+> [read more](./pantheon.md#ephara)
 
 > ### Erebos
-> ...
+> Erebos is the neutral evil God of the Dead, symbolized by a purple flamed torch.
 > 
-> [read more](./pantheon.md#erebos-god-of-the-dead)
+> [read more](./pantheon.md#erebos)
 
 > ### Eternal Army
 > ...
@@ -80,7 +82,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## G
 
 > ### Gate to Oblivion
-> ...
+> The Gate to Oblivion is a giant hole in the ground between Okeanopolis and Barnaclae. None who ventured into it's dark depths have returned and their names forgotten with time.
+>
+> [read more](./summer_sea.md#gate-to-oblivion)
 
 > ### Great Canyon of Corpses
 > ...
