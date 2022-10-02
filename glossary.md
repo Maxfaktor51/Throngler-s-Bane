@@ -23,6 +23,14 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 ## C
 
+> ### Cult of Silence
+> The Cult of Silence is a mysterious organisation that works in the shadows to execute their master plan.
+> 
+> [read more](./cultofsilence.md)
+
+> ### Cleansing Wind
+> The Cleansing Wind is a powerful storm send by the gods themselves to purge the summer sea. Some believe the storm is formed around a magical beast in the center of it while other say the storm itself is sentient.
+
 ---
 
 ## D
@@ -34,12 +42,12 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > Considered blasphemy by the general public, the Darkness before Time is considered to be the time period before the Gods even created the World. 
 
 > ### Days of Rain of Fire and Death
-> Initiated by an arrow launched into the Sun God's eye, flaming meteors from fallking from the sky during the Days of Rain of Fire and Death brought destruction upon all of the Summer Sea. 
+> Believed to have been caused by an arrow striking the Sun God's eye, countless flaming rocks fell from the heavens during the Days of Rain of Fire and Death, burning down fields and villages as well as damaging fortifications and causing incredible suffering throughout the Summer Sea.
 
 > ### Desert of Certain Death
-> The desert of Cartain Death marks the southern borders of the lands of the Summer Sea. Only a few brave adventurers manage to escape the scorching heat and ruthless sandstorms telling tales of cruel monsters and strange magic lurking in the dunes.
+> The Desert of Certain Death lies in the south east of the Summer Sea and, as the name suggests, has claimed the lives of many adventurers who dared to enter this sea of sand. 
 >
-> [read more](./summer_sea.md#desert-of-certain-death)
+> [read more](./summersea.md#desert-of-certain-death)
 
 ---
 
@@ -59,6 +67,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > Erebos is the neutral evil God of the Dead, symbolized by a purple flamed torch.
 > 
 > [read more](./pantheon.md#erebos)
+
+> ### Eternal Army
+> ...
+>
+> [read more](./eternalarmy.md)
 
 ---
 
@@ -154,6 +167,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Malara River
 > ...
 
+> ### Mellisanthé the Cruel
+> ...
+>
+> [read more](./mellisanthe.md)
+
 > ### Mogis
 > ...
 > 
@@ -178,6 +196,8 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 > ### Pantheon
 > ...
+>
+> [read more](./pantheon.md)
 
 > ### Pharika
 > ...
@@ -188,6 +208,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ...
 > 
 > [read more](./pantheon.md#phenax-god-of-deception)
+
+> ### Prince Morbogh of Eternal Doom
+> ...
+>
+> [read more](./morbogh.md)
 
 > ### Purphoros
 > ...
@@ -221,7 +246,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Summer Sea
 > ...
 > 
-> [read more](./summer_sea.md)
+> [read more](./summersea.md)
 
 ---
 
@@ -234,6 +259,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 > ### Three Kingdom War
 > ...
+
+> ### The Throngler
+> ...
+>
+> [read more](./throngler.md)
 
 ---
 

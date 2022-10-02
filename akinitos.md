@@ -9,7 +9,7 @@ The planet [*Akínitos*](./glossary.md#akínitos) is almost entirely covered by 
 ## The Heliod System
 [*Akínitos*](./glossary.md#akínitos) is fourth of the nine planets that are being circled by [*Heliod*](./glossary.md#heliod). 
 
-While all people of knowledge agree that there planets are much closer to [*Akínitos*](./glossary.md#akínitos) than the stars that decorate the heavens, it not yet been possible to build a bridge to any of them, or to at least hit one with an arrow.
+While all people of knowledge agree that there planets are much closer to [*Akínitos*](./glossary.md#akínitos) than the stars that decorate the heavens, it has not yet been possible to build a bridge to any of them, or to at least hit one with an arrow.
 
 Ever since the [*Rain of Fire and Death*](./glossary.md#days-of-rain-of-fire-and-death) mishap, where one such highly aimed arrow must have hit Heliod in his eye, the [*Heavens Protection Law*](./glossary.md#heavens-protection-law) has been adopted throughout all of the civilized lands. It states that any structures or objects capable of reaching the heavens must be pre-approved by high priests all all the Gods of the [*pantheon*](./glossary.md#pantheon) and may only be constructed (or launched) when it has been made sure that no Gods are present in the trajectory.
 
