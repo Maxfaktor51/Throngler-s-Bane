@@ -28,7 +28,7 @@ twitter_username:
 github_username:  Maxfaktor51
 
 # Build settings
-remote_theme: 5e
+remote_theme: jeremyboggs/5e
 plugins:
   - jekyll-feed
 
