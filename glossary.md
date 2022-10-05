@@ -69,7 +69,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](./pantheon.md#erebos)
 
 > ### Eternal Army
-> ...
+> Wrecking havoc all across the Summer Sea, the undead soldiers of the Eternal Army pose a threat to civilisation as we know it.
 >
 > [read more](./eternalarmy.md)
 
@@ -84,23 +84,27 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Gate to Oblivion
 > The Gate to Oblivion is a giant hole in the ground between Okeanopolis and Barnaclae. None who ventured into it's dark depths have returned and their names forgotten with time.
 >
-> [read more](./summer_sea.md#gate-to-oblivion)
+> [read more](./summersea.md#gate-to-oblivion)
 
 > ### Great Canyon of Corpses
-> ...
+> Deep inside the Desert of Certain Death lays the Canyon of Corpses. Crumbling walls and poisonous clouds fill the canyon with centuries worth of skeletons from curious or sometimes just thirsty creatures.
+>
+> [read more](./summersea.md#great-canyon-of-corpses)
 
 > ### Great Dispute
-> ...
+> The Great Dispute is a key event in ancient mythology. While the priests are unsure what exactly was before they all agree that afterwards the Gods all began to exist as separate dieties.
+>
+> [read more](./pantheon.md#the-great-dispute)
 
 ---
 
 ## H
 
 > ### Heavens Protection Law
-> ...
+> The Heavans Protection Law clearly forbids intentionally firing arrows into the sky in order to avoid hitting and thusly angering the gods who reside there.
 
 > ### Heliod
-> ...
+> Heliod is the lawful good God of the Sun, symbolized by a laurel crown.
 > 
 > [read more](./pantheon.md#heliod-god-of-the-sun)
 
@@ -109,10 +113,10 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## I
 
 > ### Ice Wall
-> ...
+> The Ice Wall is a tall icy cliff surrounding all of the Summer Sea. While it is not impossible to climb it, it certainly is very dangerous. Only a few of those who make it up and venture beyond ever make it back.
 
 > ### Iroas
-> ...
+> Iroas is the chaotic good God of Victory, symbolized by a winged helmet.
 > 
 > [read more](./pantheon.md#iroas-god-of-victory)
 
@@ -125,34 +129,42 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## K
 
 > ### Karametra
-> ...
+> Karametra is the neutral good Godess of Harvests, symbolized by a cornucopia.
 > 
 > [read more](./pantheon.md#karametra-god-of-harvests)
 
 > ### Keranos
-> ...
+> Keranos is the chaotic neutral God of Storms, symbolized by a blue eye.
 > 
 > [read more](./pantheon.md#keranos-god-of-storms)
 
 > ### Kiffalón
-> ...
+> The biggest island in the East Summer Sea, Kiffalón is famous for it's mellow inhabitants.
+>
+> [read more](./kiffalon.md)
 
 > ### Kingdom of Epsylón
-> ...
+> Spanning from Dóros in the west all the way to Hyppopolis in the west along the northern shores of the Summer Sea lies the Kingdom of Epsylón, one of the three great factions.
+>
+> [read more](./kingdomofepsylon.md)
 
 > ### Kingdom of Nabla
-> ...
+> Marking the entire western coast of the East Summer Sea, the Kindgom of Nabla is one of the three great factions.
+>
+> [read more](./kingdomofnabla.md)
 
 > ### Klothys
-> ...
+> Klothys is the true neutral Godess of Destiny, symbolized by a dropspindle.
 > 
 > [read more](./pantheon.md#klothys-god-of-destiny)
 
 > ### Kolera River
-> ...
+> Kolera is the northern most river of the Marshes of Malaria and flows through the city of Orthogón.
+>
+> [read more](./summersea.md#marshes-of-malaria) 
 
 > ### Kruphix
-> ...
+> Kruphix is the true neutral God of Horizons, symbolized by an eight-pointed star.
 > 
 > [read more](./pantheon.md#kruphix-god-of-horizons)
 
@@ -164,16 +176,18 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 ## M
 
-> ### Malara River
-> ...
+> ### Malaria River
+> Malaria is the name-giving as well as longest and southernmost river flowing into the Marshes of Malaria.
+>
+> [read more](summersea.md#marshes-of-malaria)
 
 > ### Mellisanthé the Cruel
-> ...
+> Leader of the Cult of Silence, the dark sorceress Mellisanthé seeks world domination and ultimate power.
 >
 > [read more](./mellisanthe.md)
 
 > ### Mogis
-> ...
+> Mogis is the chaotic evil God of Slaughter, symbolized by a four-horned bulls head.
 > 
 > [read more](./pantheon.md#mogis-god-of-slaugther)
 
@@ -182,7 +196,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## N
 
 > ### Nylea
-> ...
+> Nylea is the true neutral Godess of the Hunt, symbolized by four arrows.
 > 
 > [read more](./pantheon.md#nylea-god-of-the-hunt)
 
@@ -195,27 +209,27 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## P
 
 > ### Pantheon
-> ...
+> The Pantheon of the Summer Sea consists of fifteen gods, each with their own domain and followers.
 >
 > [read more](./pantheon.md)
 
 > ### Pharika
-> ...
+> Pharika is the neutral evil God of Affliction, symbolized by a snake.
 > 
 > [read more](./pantheon.md#pharika-god-of-affliction)
 
 > ### Phenax
-> ...
+> Phenax is the chaotic neutral God of Deception, symbolized by a golden winged mask.
 > 
 > [read more](./pantheon.md#phenax-god-of-deception)
 
 > ### Prince Morbogh of Eternal Doom
-> ...
+> Morbogh is a prince of the ancient evil, from the Darkness before time.
 >
 > [read more](./morbogh.md)
 
 > ### Purphoros
-> ...
+> Purphoros is the chaotic neutral God of the Forge, symbolized by a double crest.
 > 
 > [read more](./pantheon.md#purphoros-god-of-the-forge)
 
@@ -232,11 +246,15 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## S
 
 > ### Sacred Mountain
-> ...
+> A few miles north of Pópolis stands the majestic Sacred Mountain, believed to be home for the gods themselves.
+>
+> [read more](./pantheon.md#sacred-mountain)
 
 
 > ### Savage Lands
-> ...
+> Called the Savage Lands by the civilized kingdoms this faction holds the southern territories as well as the remote steppes in the far east.
+>
+> [read more](./savagelands.md)
 
 > ### Sea of Endless Ice
 > Covering almost the entire surface of the planet, this icy desert full of deep cracks and freezing blizzards provides a very hostile environment for anyone who dares explore it.
@@ -244,7 +262,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](./akinitos.md#the-sea-of-endless-ice)
 
 > ### Summer Sea
-> ...
+> The Summer Sea provides the surrounding lands with precious warmth, food and treasures as well as a reliable though dangerous opportunity for trade and transportation.
 > 
 > [read more](./summersea.md)
 
@@ -253,15 +271,15 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## T
 
 > ### Thassa
-> ...
+> Thassa is the true neutral Godess of the Sea, symbolized by the crests of waves.
 > 
 > [read more](./pantheon.md#thassa-god-of-the-sea)
 
 > ### Three Kingdom War
-> ...
+> Raging for nearly a decade now, the Three Kingdom War has since escalated into a confusing territorial battle between the three great factions.
 
 > ### The Throngler
-> ...
+> Mellisanthé's super weapon, the Throngler is feared throughout all of the Lands of the Summer Sea.
 >
 > [read more](./throngler.md)
 
