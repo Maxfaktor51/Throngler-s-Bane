@@ -106,7 +106,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Heliod
 > Heliod is the lawful good God of the Sun, symbolized by a laurel crown.
 > 
-> [read more](./pantheon.md#heliod-god-of-the-sun)
+> [read more](./pantheon.md#heliod)
 
 ---
 
@@ -114,11 +114,13 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 > ### Ice Wall
 > The Ice Wall is a tall icy cliff surrounding all of the Summer Sea. While it is not impossible to climb it, it certainly is very dangerous. Only a few of those who make it up and venture beyond ever make it back.
+>
+>[read more](./summersea.md#ice-wall)
 
 > ### Iroas
 > Iroas is the chaotic good God of Victory, symbolized by a winged helmet.
 > 
-> [read more](./pantheon.md#iroas-god-of-victory)
+> [read more](./pantheon.md#iroas)
 
 ---
 
@@ -131,17 +133,17 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Karametra
 > Karametra is the neutral good Godess of Harvests, symbolized by a cornucopia.
 > 
-> [read more](./pantheon.md#karametra-god-of-harvests)
+> [read more](./pantheon.md#karametra)
 
 > ### Keranos
 > Keranos is the chaotic neutral God of Storms, symbolized by a blue eye.
 > 
-> [read more](./pantheon.md#keranos-god-of-storms)
+> [read more](./pantheon.md#keranos)
 
 > ### Kiffalón
 > The biggest island in the East Summer Sea, Kiffalón is famous for it's mellow inhabitants.
 >
-> [read more](./kiffalon.md)
+> [read more](./summersea.md#kiffalón)
 
 > ### Kingdom of Epsylón
 > Spanning from Dóros in the west all the way to Hyppopolis in the west along the northern shores of the Summer Sea lies the Kingdom of Epsylón, one of the three great factions.
@@ -156,7 +158,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Klothys
 > Klothys is the true neutral Godess of Destiny, symbolized by a dropspindle.
 > 
-> [read more](./pantheon.md#klothys-god-of-destiny)
+> [read more](./pantheon.md#klothys)
 
 > ### Kolera River
 > Kolera is the northern most river of the Marshes of Malaria and flows through the city of Orthogón.
@@ -166,7 +168,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Kruphix
 > Kruphix is the true neutral God of Horizons, symbolized by an eight-pointed star.
 > 
-> [read more](./pantheon.md#kruphix-god-of-horizons)
+> [read more](./pantheon.md#kruphix)
 
 ---
 
@@ -189,7 +191,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Mogis
 > Mogis is the chaotic evil God of Slaughter, symbolized by a four-horned bulls head.
 > 
-> [read more](./pantheon.md#mogis-god-of-slaugther)
+> [read more](./pantheon.md#mogis)
 
 ---
 
@@ -198,7 +200,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Nylea
 > Nylea is the true neutral Godess of the Hunt, symbolized by four arrows.
 > 
-> [read more](./pantheon.md#nylea-god-of-the-hunt)
+> [read more](./pantheon.md#nylea)
 
 ---
 
@@ -216,12 +218,12 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Pharika
 > Pharika is the neutral evil God of Affliction, symbolized by a snake.
 > 
-> [read more](./pantheon.md#pharika-god-of-affliction)
+> [read more](./pantheon.md#pharika)
 
 > ### Phenax
 > Phenax is the chaotic neutral God of Deception, symbolized by a golden winged mask.
 > 
-> [read more](./pantheon.md#phenax-god-of-deception)
+> [read more](./pantheon.md#phenax)
 
 > ### Prince Morbogh of Eternal Doom
 > Morbogh is a prince of the ancient evil, from the Darkness before time.
@@ -231,7 +233,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Purphoros
 > Purphoros is the chaotic neutral God of the Forge, symbolized by a double crest.
 > 
-> [read more](./pantheon.md#purphoros-god-of-the-forge)
+> [read more](./pantheon.md#purphoros)
 
 ---
 
@@ -273,7 +275,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Thassa
 > Thassa is the true neutral Godess of the Sea, symbolized by the crests of waves.
 > 
-> [read more](./pantheon.md#thassa-god-of-the-sea)
+> [read more](./pantheon.md#thassa)
 
 > ### Three Kingdom War
 > Raging for nearly a decade now, the Three Kingdom War has since escalated into a confusing territorial battle between the three great factions.
