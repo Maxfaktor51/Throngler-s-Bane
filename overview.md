@@ -51,23 +51,23 @@ Both kingdoms have a very similar political structure: They are ruled by a monar
 ### Points of Interest
 There are many beautiful and magical places to see in the [*Summer Sea*](./glossary.md#summer-sea), to list or visit them all would be impossible. These however stand out from the crowd and should be on every adventurer's bucket list:
 
-- Maxipolis  
+- **Maxipolis**  
   This rich and sprawling Megapolis is the capitol of the [*Kingdom of Nabla*](./glossary.md#kingdom-of-nabla) and claims to be the oldest city in the [*Summer Sea*](./glossary.md#summer-sea) founded by [*Ephara*](./glossary.md#ephara), the Godess of Cities herself.
 
-- Kiffalón  
+- **Kiffalón**  
   The island of [*Kiffalón*](./glossary.md#kiffalón) is the third largest island in the [*Summer Sea*](./glossary.md#summer-sea) and despite being scarred by the [*Three Kingdom War*](./glossary.md#three-kingdom-war) a very peacefull place. The natives are known for their mellow character and great, tasty feasts. 
 
-- Marshes of Malaria  
+- **Marshes of Malaria**  
   Spanning for many miles along the rivers [*Malara*](./glossary.md#malara-river), [*Kolera*](./glossary.md#kolera-river) and [*Ebóla*](./glossary.md#ebola-river) the Marshes of Malaria pose a deathly obstacle for merchants and adventurers who wish to avoid the bandits at the coast and the criminally high tolls of the dwarven highways through the mountains.
 
-- Deep Hole of Doom  
+- **Deep Hole of Doom**  
   The Deep Hole of Doom is a giant hole in the ground spanning several miles across. Of all who have descended into its dark depths none has returned which is why the hole is sometimes also called the [*Gate to Oblivion*](./glossary.md#gate-to-oblivion).
 
-- Great Canyon of Corpses  
+- **Great Canyon of Corpses**  
   Deep inside the [*Desert of certain Death*](./glossary.md#desert-of-certain-death) lays the [*Great Canyon of Corpses*](./glossary.md#great-canyon-of-corpses). As the name suggests, this is the last resting place for countles desparate souls who sought refuge from the scorching heat and freezing cold of the desert above.
 
 ### Calendar
-One of the most useful inventions in the history of the [*Summer Sea*](./glossary.md#summer-sea) is the calender. It allows us to measure time and even predict natural events such as the next sunrise, full moon or winter season. 
+One of the most useful inventions in the history of the [*Summer Sea*](./glossary.md#summer-sea) is the calendar. It allows us to measure time and even predict natural events such as the next sunrise, full moon or winter season. 
 
 The wizards and sages have observed that [*Heliod*](./glossary.md#heliod), God of the Light circles the planet very regularly and have mostly agreed that every time Heliod appears above the horizon, a new 'day' shall begin. Seven days then make up a 'week'.
 
