@@ -15,6 +15,7 @@ Just before the [*Ancient Evil*](./glossary.md#ancient-evil) was banished throug
 New members of the cult are being hand picked only by the leaders themselves and sworn in through [*secret rituals*](./glossary.md#silent-initiation-ritual). Further more, all cultists are cursed with eternal silence and hoods are worn during all meetings. This is to protect the cult from malicious infiltrators and to allow them to keep their secrets from scrying interrogators.
 
 So far, these people have been confirmed members of the cult:
+
 - [Mellisanthé the Cruel](./glossary.md#mellisanthé-the-cruel), leader, alive
 - There's more, I'm pretty sure!
 
@@ -24,7 +25,7 @@ So far, these people have been confirmed members of the cult:
 
 The [*Tablet of the Ancient One*](./glossary.md#tablet-of-the-ancient-one) is the cults most valued object. Through regular sacrificial rituals they seek to draw power from it and unlock a secret key that would allow them to reinstate the rule of the [*Ancient One*](./glossary.md#ancient-evil) and its [*princes*](./glossary.md#prince-morbogh-of-eternal-doom).
 
-Sources indicate the tablet is located in a [*cult stronghold*](./glossary.md#castle-queblekch) deep inside the caves underneath the [*Cyclops Mountains*](./glossary.md#cyclops-mountains).
+Sources indicate the tablet is located in a [*cult stronghold*](./glossary.md#castle-queblekh) deep inside the caves underneath the [*Cyclops Mountains*](./glossary.md#cyclops-mountains).
 
 <p class="clearfix"></p>
 

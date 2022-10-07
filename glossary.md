@@ -28,14 +28,24 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 ## C
 
+> ### Castle Queblekh
+> Castle Queblekh is an ancient underground fortress in the caves beneath the Cyclops Mountains
+>
+> [SPOILER WARNING](./castlequeblekh.md)
+
+> ### Cleansing Wind 
+> <details><summary>SPOILER WARNING</summary><p>The Cleansing Wind is a powerful storm send by the gods themselves to purge the summer sea. Some believe the storm is formed around a magical beast in the center of it while other say the storm itself is sentient.
+</p></details>
+
 > ### Cult of Silence
 > The Cult of Silence is a mysterious organisation that works in the shadows to execute their master plan.
 > 
 > [SPOILER WARNIG](./cultofsilence.md)
 
-> ### Cleansing Wind 
-> <details><summary>SPOILER WARNING</summary><p>The Cleansing Wind is a powerful storm send by the gods themselves to purge the summer sea. Some believe the storm is formed around a magical beast in the center of it while other say the storm itself is sentient.</p></details>
-
+> ### Cyclops Mountains
+> North of Okeanopolis are the Cyclops Mountains, home of huge one-eyed beasts who like to feast on careless travelers.
+>
+> [read more](./summersea.md#cyclops-mountains)
 ---
 
 ## D
@@ -269,6 +279,10 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > 
 > [read more](./akinitos.md#the-sea-of-endless-ice)
 
+> ### Silent Initiation Ritual
+> <details><summary>SPOILER WARNING</summary><p>The Silent Initiation Ritual is performed by the Cult of Silence to recruit new members. During the ritual the victim trades their ability to speak for access to the dark powers of the cult.
+</p></details>
+
 > ### Summer Sea
 > The Summer Sea provides the surrounding lands with precious warmth, food and treasures as well as a reliable though dangerous opportunity for trade and transportation.
 > 
@@ -277,6 +291,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ---
 
 ## T
+
+> ### Tablet of the Ancient One
+> <details><summary>SPOILER WARNING</summary><p>The Tablet of the Ancient One contains knowledge necessary to restore the Ancient Ones rule of the mortal realm. It also provides the Cult of Silence with dark powers.</p></details>
+>
+> [SPOILER WARNING](./cultofsilence.md#tablet-of-the-ancient-one)
 
 > ### Thassa
 > Thassa is the true neutral Godess of the Sea, symbolized by the crests of waves.
