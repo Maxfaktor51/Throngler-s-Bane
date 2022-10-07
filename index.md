@@ -1,4 +1,4 @@
-<img src="./assets/img012.png" width="250px" id="fleft">
+<img src="./assets/img012.png" width="200px" id="fleft">
 
 **Ahoj, noble seeker of knowledge!**  
 You found the wiki for my Dungeons and Dragons campaign. If you are new here I suggest reading the [overview](./overview.md) - if you already know what you are looking for, I suggest browsing the [glossary](./glossary.md).
