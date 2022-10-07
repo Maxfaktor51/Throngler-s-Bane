@@ -20,11 +20,13 @@ So far, these people have been confirmed members of the cult:
 
 ---
 ## Tablet of the Ancient One
-<img src="./assets/img014.png" width="120" id="fleft" class="clearfix">
+<img src="./assets/img014.png" width="120" id="fleft">
 
 The [*Tablet of the Ancient One*](./glossary.md#tablet-of-the-ancient-one) is the cults most valued object. Through regular sacrificial rituals they seek to draw power from it and unlock a secret key that would allow them to reinstate the rule of the [*Ancient One*](./glossary.md#ancient-evil) and its [*princes*](./glossary.md#prince-morbogh-of-eternal-doom).
 
 Sources indicate the tablet is located in a [*cult stronghold*](./glossary.md#castle-queblekch) deep inside the caves underneath the [*Cyclops Mountains*](./glossary.md#cyclops-mountains).
+
+<p class="clearfix"></p>
 
 ---
 ## Further Reading
