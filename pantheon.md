@@ -1,4 +1,4 @@
-![The Patheon of Gods atop the Sacred Mountain](./images/img0055.png)
+![The temple of the Gods atop the Sacred Mountain](./images/img006.png)
 
 # The Pantheon of Akínitos
 
@@ -7,21 +7,23 @@ The pantheon of [*Akínitos*](./glossary.md#akínitos) is formed by fifteen gods
 While all gods have their dedicated priests and followers, the average mortal living along the [*Summer Sea*](./glossary.md#summer-sea) worships multiple gods at the same time, depending on their surroundings and profession. 
 
 ---
-![Athreos guiding the dead to the moon](./images/img0054.png)
 
 ## The fifteen Gods of Akínitos
 ### Athreos
 **God of Passage**
+![Statue of Athreos](./images/img007.png)
 
 ---
 
 ### Ephara
 **God of Culture and Civics**
+![Statue of Ephara](./images/img009.png)
 
 ---
 
 ### Erebos
 **God of the Dead**
+![Statue of Erebos](./images/img008.png)
 
 ---
 
@@ -92,4 +94,4 @@ While all gods have their dedicated priests and followers, the average mortal li
 
 ---
 ## Further Reading
-This has been an article about the [*Pantheon*](glossary.md#pantheon) of [*Akínitos*](./glossary.md#akínitos). For further reading please check out the [*Encyclopedia*](./SUMMARY.md).
+This has been an article about the [*Pantheon*](glossary.md#pantheon) of [*Akínitos*](./glossary.md#akínitos). For further reading please check out the [*Encyclopedia*](./index.md).
