@@ -35,7 +35,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 > ### Cleansing Wind 
 > <details><summary>SPOILER WARNING</summary><p>The Cleansing Wind is a powerful storm send by the gods themselves to purge the summer sea. Some believe the storm is formed around a magical beast in the center of it while other say the storm itself is sentient.
-</p></details>
+> </p></details>
 
 > ### Cult of Silence
 > The Cult of Silence is a mysterious organisation that works in the shadows to execute their master plan.
@@ -130,7 +130,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Ice Wall
 > The Ice Wall is a tall icy cliff surrounding all of the Summer Sea. While it is not impossible to climb it, it certainly is very dangerous. Only a few of those who make it up and venture beyond ever make it back.
 >
->[read more](./summersea.md#ice-wall)
+> [read more](./summersea.md#ice-wall)
 
 > ### Iroas
 > Iroas is the chaotic good God of Victory, symbolized by a winged helmet.
@@ -281,7 +281,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 > ### Silent Initiation Ritual
 > <details><summary>SPOILER WARNING</summary><p>The Silent Initiation Ritual is performed by the Cult of Silence to recruit new members. During the ritual the victim trades their ability to speak for access to the dark powers of the cult.
-</p></details>
+> </p></details>
 
 > ### Summer Sea
 > The Summer Sea provides the surrounding lands with precious warmth, food and treasures as well as a reliable though dangerous opportunity for trade and transportation.
