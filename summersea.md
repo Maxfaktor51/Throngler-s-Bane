@@ -1,4 +1,4 @@
-![A map of the Summer Sea](./images/map_summersea.png)
+![A map of the Summer Sea](./assets/map_summersea.png)
 
 # The Summer Sea
 

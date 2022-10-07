@@ -1,4 +1,4 @@
-![The temple of the Gods atop the Sacred Mountain](./images/img006.png)
+![The temple of the Gods atop the Sacred Mountain](./assets/img006.png)
 
 # The Pantheon of Akínitos
 
@@ -11,19 +11,19 @@ While all gods have their dedicated priests and followers, the average mortal li
 ## The fifteen Gods of Akínitos
 ### Athreos
 **God of Passage**
-![Statue of Athreos](./images/img007.png)
+![Statue of Athreos](./assets/img007.png)
 
 ---
 
 ### Ephara
 **God of Culture and Civics**
-![Statue of Ephara](./images/img009.png)
+![Statue of Ephara](./assets/img009.png)
 
 ---
 
 ### Erebos
 **God of the Dead**
-![Statue of Erebos](./images/img008.png)
+![Statue of Erebos](./assets/img008.png)
 
 ---
 

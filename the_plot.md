@@ -1,6 +1,6 @@
 # The Plot
 
-![Mellisanthé's Plot Board](./images/img010.png)
+![Mellisanthé's Plot Board](./assets/img010.png)
 
 <p align="center">
 !!! SPOILER WARNING !!!</br>
