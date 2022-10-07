@@ -1,4 +1,4 @@
-![A view of the Summer Sea](./assets/img012.png)
+<img src="./assets/img012.png" width="250px" class="center">
 
 ---
 
