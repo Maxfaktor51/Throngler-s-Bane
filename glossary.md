@@ -26,10 +26,10 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Cult of Silence
 > The Cult of Silence is a mysterious organisation that works in the shadows to execute their master plan.
 > 
-> [read more](./cultofsilence.md)
+> [SPOILER WARNIG](./cultofsilence.md)
 
-> ### Cleansing Wind
-> The Cleansing Wind is a powerful storm send by the gods themselves to purge the summer sea. Some believe the storm is formed around a magical beast in the center of it while other say the storm itself is sentient.
+> ### Cleansing Wind 
+> <details><summary>SPOILER WARNING</summary><p>The Cleansing Wind is a powerful storm send by the gods themselves to purge the summer sea. Some believe the storm is formed around a magical beast in the center of it while other say the storm itself is sentient.</p></details>
 
 ---
 
@@ -184,9 +184,10 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](summersea.md#marshes-of-malaria)
 
 > ### Mellisanthé the Cruel
-> Leader of the Cult of Silence, the dark sorceress Mellisanthé seeks world domination and ultimate power.
+> <details><summary>SPOILER WARNING</summary><p>Leader of the Cult of Silence, the dark sorceress Mellisanthé seeks world domination and ultimate power.
 >
-> [read more](./mellisanthe.md)
+> [read more](./mellisanthe.md)</p></details>
+
 
 > ### Mogis
 > Mogis is the chaotic evil God of Slaughter, symbolized by a four-horned bulls head.
@@ -226,9 +227,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](./pantheon.md#phenax)
 
 > ### Prince Morbogh of Eternal Doom
-> Morbogh is a prince of the ancient evil, from the Darkness before time.
+> <details><summary>SPOILER WARNING</summary><p>Morbogh is a prince of the Ancient Evil from the Darkness before time.
 >
-> [read more](./morbogh.md)
+> [read more](./morbogh.md)</p></details>
 
 > ### Purphoros
 > Purphoros is the chaotic neutral God of the Forge, symbolized by a double crest.
@@ -281,9 +282,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > Raging for nearly a decade now, the Three Kingdom War has since escalated into a confusing territorial battle between the three great factions.
 
 > ### The Throngler
-> Mellisanthé's super weapon, the Throngler is feared throughout all of the Lands of the Summer Sea.
+> <details><summary>SPOILER WARNING</summary><p>Mellisanthé's super weapon, the Throngler is feared throughout all of the Lands of the Summer Sea.
 >
-> [read more](./throngler.md)
+> [read more](./throngler.md)</p></details>
 
 ---
 
