@@ -9,6 +9,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > 
 > [read more](./akinitos.md)
 
+> ### Ancient Evil
+> <details><summary>SPOILER WARNING</summary><p>The Ancient Evil is a malicious godlike entity from the Darkness before Time.</p></details>
+>
+> [SPOILER WARNING](./morbogh.md#the-ancient-evil)
+
 > ### Athreos
 > Athreos is the lawful evil God of Passage, symbolized by the crescent moon.
 > 
@@ -184,9 +189,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](summersea.md#marshes-of-malaria)
 
 > ### Mellisanthé the Cruel
-> <details><summary>SPOILER WARNING</summary><p>Leader of the Cult of Silence, the dark sorceress Mellisanthé seeks world domination and ultimate power.
+> <details><summary>SPOILER WARNING</summary><p>Leader of the Cult of Silence, the dark sorceress Mellisanthé seeks world domination and ultimate power.</p></details>
 >
-> [read more](./mellisanthe.md)</p></details>
+> [SPOILER WARNING](./mellisanthe.md)
 
 
 > ### Mogis
@@ -227,9 +232,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](./pantheon.md#phenax)
 
 > ### Prince Morbogh of Eternal Doom
-> <details><summary>SPOILER WARNING</summary><p>Morbogh is a prince of the Ancient Evil from the Darkness before time.
+> <details><summary>SPOILER WARNING</summary><p>Morbogh is a prince of the Ancient Evil from the Darkness before time.</p></details>
 >
-> [read more](./morbogh.md)</p></details>
+> [SPOILER WARNING](./morbogh.md)
 
 > ### Purphoros
 > Purphoros is the chaotic neutral God of the Forge, symbolized by a double crest.
@@ -282,9 +287,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > Raging for nearly a decade now, the Three Kingdom War has since escalated into a confusing territorial battle between the three great factions.
 
 > ### The Throngler
-> <details><summary>SPOILER WARNING</summary><p>Mellisanthé's super weapon, the Throngler is feared throughout all of the Lands of the Summer Sea.
+> <details><summary>SPOILER WARNING</summary><p>Mellisanthé's super weapon, the Throngler is feared throughout all of the Lands of the Summer Sea.</p></details>
 >
-> [read more](./throngler.md)</p></details>
+> [SPOILER WARNING](./throngler.md)
 
 ---
 
