@@ -16,7 +16,7 @@ New members of the cult are being hand picked only by the leaders themselves and
 
 So far, these people have been confirmed members of the cult:
 - [Mellisanthé the Cruel](./glossary.md#mellisanthé-the-cruel), leader, alive
--
+- There's more, I'm pretty sure!
 
 ---
 ## Tablet of the Ancient One
