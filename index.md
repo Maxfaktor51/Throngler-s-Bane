@@ -1,4 +1,4 @@
-<img src="./assets/img015.png" width="333px" id="fright">
+<img src="./assets/img015.png" width="350px" id="fright">
 
 **Ahoj, noble seeker of knowledge!**  
 

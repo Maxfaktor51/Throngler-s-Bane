@@ -8,6 +8,11 @@
     margin-right: auto;
     width: 50%;
   }
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
 #fleft  {
     float: left;    
      margin: 0 15px 0 0;
