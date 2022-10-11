@@ -28,6 +28,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 ## C
 
+> ### Calendar
+> The invention of the Summer Sea Calendar marks the end of the Dark Age of Confusion. The Calendar is being used to measure the progress of time.
+>
+> [read more](./calendar.md)
+
 > ### Castle Queblekh
 > Castle Queblekh is an ancient underground fortress in the caves beneath the Cyclops Mountains
 >
@@ -46,6 +51,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > North of Okeanopolis are the Cyclops Mountains, home of huge one-eyed beasts who like to feast on careless travelers.
 >
 > [read more](./summersea.md#cyclops-mountains)
+
 ---
 
 ## D

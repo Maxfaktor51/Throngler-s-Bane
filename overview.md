@@ -67,14 +67,14 @@ There are many beautiful and magical places to see in the [*Summer Sea*](./gloss
   Deep inside the [*Desert of certain Death*](./glossary.md#desert-of-certain-death) lays the [*Great Canyon of Corpses*](./glossary.md#great-canyon-of-corpses). As the name suggests, this is the last resting place for countles desparate souls who sought refuge from the scorching heat and freezing cold of the desert above.
 
 ### Calendar
-One of the most useful inventions in the history of the [*Summer Sea*](./glossary.md#summer-sea) is the calendar. It allows us to measure time and even predict natural events such as the next sunrise, full moon or winter season. 
+One of the most useful inventions in the history of the [*Summer Sea*](./glossary.md#summer-sea) is the [*calendar*](./glossary.md#calendar). It allows us to measure time and even predict natural events such as the next sunrise, full moon or winter season. 
 
-The wizards and sages have observed that [*Heliod*](./glossary.md#heliod), God of the Light circles the planet very regularly and have mostly agreed that every time Heliod appears above the horizon, a new 'day' shall begin. Seven days then make up a 'week'.
+The wizards and sages have observed that [*Heliod*](./glossary.md#heliod), God of the Light circles the planet very regularly and have mostly agreed that every time Heliod appears above the horizon, a new 'day' shall begin. Five such days make up a 'week'.
 
 For a long time four weeks made up a 'month' which perfectly coincided with the phases of the moon and a 'year' had fourteen months. One day however, out of jealousy [*Phenax*](./glossary.md#phenax), God of Deception messed with the trajectory of the Moon and threw civilisation into the [*Dark Age of Confusion*](./glossary.md#dark-age-of-confusion).
 For many hours, or centuries perhaps, noone knew what date it was until finally a month was observed to be exactly 31 days long.
 
-This shift in the heavens extended the year by another month, ensuring that all 15 gods now each have their own month, 31 days, or, four-and-a-bit weeks long. 
+This shift in the heavens extended the year by another month, ensuring that all 15 gods now each have their own month which is 31 days or four-and-a-bit weeks long. 
 
 ---
 ## Further Reading
