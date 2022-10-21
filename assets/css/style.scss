@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+.header {
+    padding: 50px;
+    text-align: center;
+    background-image: url("https://maxfaktor51.github.io/throngler/assets/img018.png");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-size: 30px;
+  }
+#fleft  {
+    float: left;    
+     margin: 10px 30px 0px 0px;
+    }
+#fright  {
+      float: right;    
+       margin: 30px 10px 0px 0px;
+      }

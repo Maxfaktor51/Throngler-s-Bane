@@ -9,6 +9,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > 
 > [read more](./akinitos.md)
 
+> ### Ancient Evil
+> <details><summary>SPOILER WARNING</summary><p>The Ancient Evil is a malicious godlike entity from the Darkness before Time.</p></details>
+>
+> [SPOILER WARNING](./morbogh.md#the-ancient-evil)
+
 > ### Athreos
 > Athreos is the lawful evil God of Passage, symbolized by the crescent moon.
 > 
@@ -23,13 +28,29 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 ## C
 
+> ### Calendar
+> The invention of the Summer Sea Calendar marks the end of the Dark Age of Confusion. The Calendar is being used to measure the progress of time.
+>
+> [read more](./calendar.md)
+
+> ### Castle Queblekh
+> Castle Queblekh is an ancient underground fortress in the caves beneath the Cyclops Mountains
+>
+> [SPOILER WARNING](./castlequeblekh.md)
+
+> ### Cleansing Wind 
+> <details><summary>SPOILER WARNING</summary><p>The Cleansing Wind is a powerful storm send by the gods themselves to purge the summer sea. Some believe the storm is formed around a magical beast in the center of it while other say the storm itself is sentient.
+> </p></details>
+
 > ### Cult of Silence
 > The Cult of Silence is a mysterious organisation that works in the shadows to execute their master plan.
 > 
-> [read more](./cultofsilence.md)
+> [SPOILER WARNIG](./cultofsilence.md)
 
-> ### Cleansing Wind
-> The Cleansing Wind is a powerful storm send by the gods themselves to purge the summer sea. Some believe the storm is formed around a magical beast in the center of it while other say the storm itself is sentient.
+> ### Cyclops Mountains
+> North of Okeanopolis are the Cyclops Mountains, home of huge one-eyed beasts who like to feast on careless travelers.
+>
+> [read more](./summersea.md#cyclops-mountains)
 
 ---
 
@@ -115,7 +136,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Ice Wall
 > The Ice Wall is a tall icy cliff surrounding all of the Summer Sea. While it is not impossible to climb it, it certainly is very dangerous. Only a few of those who make it up and venture beyond ever make it back.
 >
->[read more](./summersea.md#ice-wall)
+> [read more](./summersea.md#ice-wall)
 
 > ### Iroas
 > Iroas is the chaotic good God of Victory, symbolized by a winged helmet.
@@ -184,9 +205,10 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](summersea.md#marshes-of-malaria)
 
 > ### Mellisanthé the Cruel
-> Leader of the Cult of Silence, the dark sorceress Mellisanthé seeks world domination and ultimate power.
+> <details><summary>SPOILER WARNING</summary><p>Leader of the Cult of Silence, the dark sorceress Mellisanthé seeks world domination and ultimate power.</p></details>
 >
-> [read more](./mellisanthe.md)
+> [SPOILER WARNING](./mellisanthe.md)
+
 
 > ### Mogis
 > Mogis is the chaotic evil God of Slaughter, symbolized by a four-horned bulls head.
@@ -226,9 +248,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](./pantheon.md#phenax)
 
 > ### Prince Morbogh of Eternal Doom
-> Morbogh is a prince of the ancient evil, from the Darkness before time.
+> <details><summary>SPOILER WARNING</summary><p>Morbogh is a prince of the Ancient Evil from the Darkness before time.</p></details>
 >
-> [read more](./morbogh.md)
+> [SPOILER WARNING](./morbogh.md)
 
 > ### Purphoros
 > Purphoros is the chaotic neutral God of the Forge, symbolized by a double crest.
@@ -263,6 +285,10 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > 
 > [read more](./akinitos.md#the-sea-of-endless-ice)
 
+> ### Silent Initiation Ritual
+> <details><summary>SPOILER WARNING</summary><p>The Silent Initiation Ritual is performed by the Cult of Silence to recruit new members. During the ritual the victim trades their ability to speak for access to the dark powers of the cult.
+> </p></details>
+
 > ### Summer Sea
 > The Summer Sea provides the surrounding lands with precious warmth, food and treasures as well as a reliable though dangerous opportunity for trade and transportation.
 > 
@@ -271,6 +297,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ---
 
 ## T
+
+> ### Tablet of the Ancient One
+> <details><summary>SPOILER WARNING</summary><p>The Tablet of the Ancient One contains knowledge necessary to restore the Ancient Ones rule of the mortal realm. It also provides the Cult of Silence with dark powers.</p></details>
+>
+> [SPOILER WARNING](./cultofsilence.md#tablet-of-the-ancient-one)
 
 > ### Thassa
 > Thassa is the true neutral Godess of the Sea, symbolized by the crests of waves.
@@ -281,9 +312,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > Raging for nearly a decade now, the Three Kingdom War has since escalated into a confusing territorial battle between the three great factions.
 
 > ### The Throngler
-> Mellisanthé's super weapon, the Throngler is feared throughout all of the Lands of the Summer Sea.
+> <details><summary>SPOILER WARNING</summary><p>Mellisanthé's super weapon, the Throngler is feared throughout all of the Lands of the Summer Sea.</p></details>
 >
-> [read more](./throngler.md)
+> [SPOILER WARNING](./throngler.md)
 
 ---
 

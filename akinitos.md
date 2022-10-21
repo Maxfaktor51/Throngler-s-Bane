@@ -1,6 +1,6 @@
 # Planet Akínitos
 
-![Birth of Akínitos](./images/img0012.png)
+![Akínitos as seen from the Moon](./assets/img004.png)
 
 The planet [*Akínitos*](./glossary.md#akínitos) is almost entirely covered by ice, however thanks to what appears to be a geothermal anomaly, a relatively small area stays above the freezing point for almost the entire year, the [*Summer Sea*](./glossary.md#summer-sea). This valley of warmth is surrounded by an [*ice wall*](./glossary.md#ice-wall) almost a mile high. During summer, huge clumps of ice break away and fall onto the lands below, supplying them with fresh water just to be reformed during the unforgiving blizzards of the winter months.
 
@@ -21,7 +21,7 @@ Believed to be the home of [*Athreos*](./glossary.md#athreos), the God of Passag
 
 ---
 
-![Beyond the Ice Wall](./images/img0030.png)
+![Beyond the Ice Wall](./assets/img005.png)
 
 ## The Sea of Endless Ice
 
@@ -39,4 +39,4 @@ Some say it's a favor of the [*Gods*](./glossary.md#pantheon), but then why woul
 
 ---
 ## Further Reading
-This has been an article about [*Akínitos*](./glossary.md#akínitos). For further reading please check out the [*Encyclopedia*](./SUMMARY.md).
+This has been an article about [*Akínitos*](./glossary.md#akínitos). For further reading please check out the [*Encyclopedia*](./index.md).

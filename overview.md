@@ -1,6 +1,6 @@
 # Lands of the Summer Sea - An Overview
 
-![A view of the Summer Sea](./images/img0004.png)
+![A view of the Summer Sea](./assets/img001.png)
 
 **Welcome adventurer!** This article serves as an overview of the Land of the Summer Sea, much like a tourist information pamphlet if you will :-)   
 
@@ -20,7 +20,7 @@ Rich game and fastastic beasts can be found lurking the forests while the planes
 
 ---
 
-![The Sacred Mountain](./images/img0023.png)
+![The Sacred Mountain](./assets/img002.png)
 
 ## Myths and Legends
 ### How the World came to be
@@ -40,7 +40,7 @@ What started as an attempt to annect the island of [*Kiffalón*](./glossary.md#k
 
 ---
 
-![The old Temple on Kiffalón](./images/img0024.png)
+![The old Temple on Kiffalón](./assets/img003.png)
 
 ## Culture and Politics
 ### The Three Kingdoms
@@ -51,31 +51,31 @@ Both kingdoms have a very similar political structure: They are ruled by a monar
 ### Points of Interest
 There are many beautiful and magical places to see in the [*Summer Sea*](./glossary.md#summer-sea), to list or visit them all would be impossible. These however stand out from the crowd and should be on every adventurer's bucket list:
 
-- Maxipolis  
+- **Maxipolis**  
   This rich and sprawling Megapolis is the capitol of the [*Kingdom of Nabla*](./glossary.md#kingdom-of-nabla) and claims to be the oldest city in the [*Summer Sea*](./glossary.md#summer-sea) founded by [*Ephara*](./glossary.md#ephara), the Godess of Cities herself.
 
-- Kiffalón  
+- **Kiffalón**  
   The island of [*Kiffalón*](./glossary.md#kiffalón) is the third largest island in the [*Summer Sea*](./glossary.md#summer-sea) and despite being scarred by the [*Three Kingdom War*](./glossary.md#three-kingdom-war) a very peacefull place. The natives are known for their mellow character and great, tasty feasts. 
 
-- Marshes of Malaria  
+- **Marshes of Malaria**  
   Spanning for many miles along the rivers [*Malara*](./glossary.md#malara-river), [*Kolera*](./glossary.md#kolera-river) and [*Ebóla*](./glossary.md#ebola-river) the Marshes of Malaria pose a deathly obstacle for merchants and adventurers who wish to avoid the bandits at the coast and the criminally high tolls of the dwarven highways through the mountains.
 
-- Deep Hole of Doom  
+- **Deep Hole of Doom**  
   The Deep Hole of Doom is a giant hole in the ground spanning several miles across. Of all who have descended into its dark depths none has returned which is why the hole is sometimes also called the [*Gate to Oblivion*](./glossary.md#gate-to-oblivion).
 
-- Great Canyon of Corpses  
+- **Great Canyon of Corpses**  
   Deep inside the [*Desert of certain Death*](./glossary.md#desert-of-certain-death) lays the [*Great Canyon of Corpses*](./glossary.md#great-canyon-of-corpses). As the name suggests, this is the last resting place for countles desparate souls who sought refuge from the scorching heat and freezing cold of the desert above.
 
 ### Calendar
-One of the most useful inventions in the history of the [*Summer Sea*](./glossary.md#summer-sea) is the calender. It allows us to measure time and even predict natural events such as the next sunrise, full moon or winter season. 
+One of the most useful inventions in the history of the [*Summer Sea*](./glossary.md#summer-sea) is the [*calendar*](./glossary.md#calendar). It allows us to measure time and even predict natural events such as the next sunrise, full moon or winter season. 
 
-The wizards and sages have observed that [*Heliod*](./glossary.md#heliod), God of the Light circles the planet very regularly and have mostly agreed that every time Heliod appears above the horizon, a new 'day' shall begin. Seven days then make up a 'week'.
+The wizards and sages have observed that [*Heliod*](./glossary.md#heliod), God of the Light circles the planet very regularly and have mostly agreed that every time Heliod appears above the horizon, a new 'day' shall begin. Five such days make up a 'week'.
 
 For a long time four weeks made up a 'month' which perfectly coincided with the phases of the moon and a 'year' had fourteen months. One day however, out of jealousy [*Phenax*](./glossary.md#phenax), God of Deception messed with the trajectory of the Moon and threw civilisation into the [*Dark Age of Confusion*](./glossary.md#dark-age-of-confusion).
 For many hours, or centuries perhaps, noone knew what date it was until finally a month was observed to be exactly 31 days long.
 
-This shift in the heavens extended the year by another month, ensuring that all 15 gods now each have their own month, 31 days, or, four-and-a-bit weeks long. 
+This shift in the heavens extended the year by another month, ensuring that all 15 gods now each have their own month which is 31 days or four-and-a-bit weeks long. 
 
 ---
 ## Further Reading
-This has been an overview of the Lands of the [*Summer Sea*](./glossary.md#summer-sea) and its inhabitants. For further reading please check out the [*Encyclopedia*](./SUMMARY.md).
+This has been an overview of the Lands of the [*Summer Sea*](./glossary.md#summer-sea) and its inhabitants. For further reading please check out the [*Encyclopedia*](./index.md).
