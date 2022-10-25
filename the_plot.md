@@ -29,7 +29,7 @@ Suspicious shifts in power as well as strange observations by concerned villager
 > (yields intel on the [*Eternal Army*](./glossary.md#eternal-army))
 
 > Stolen livestock  
-> (yields intel on the [*Throngler*](./glossary.md#the-throngler))
+> (yields intel on the [*Throngler*](./glossary.md#throngler))
 
 By the end of the first act [*Mellisanthé*](./glossary.md#mellisanthé-the-cruel) will have found the key for raising an army of the undead, triggering a final quest:
 
@@ -47,7 +47,7 @@ As [*Morbogh's*](./glossary.md#prince-morbogh-of-eternal-doom) three pillars pla
 > (yields intel on the [*Cult*](./glossary.md#cult-of-silence))
 
 > The Strongest warrior in the Horde  
-> (yields intel on the [*Throngler*](./glossary.md#the-throngler))
+> (yields intel on the [*Throngler*](./glossary.md#throngler))
 
 > A Journey through Space and Time  
 > (yields intel on [*Morbogh*](./glossary.md#prince-morbogh-of-eternal-doom))

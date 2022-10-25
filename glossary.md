@@ -70,6 +70,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [read more](./summersea.md#desert-of-certain-death)
 
+> ### Dwarf
+> ...
+>
+> [read more](./species.md#dwarf)
+
 ---
 
 ## E
@@ -78,6 +83,14 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > The Ebóla River is the second longest river flowing into the northern parts of the Marshes of Malaria. Infested with many dangerous animals it remains a favorite target for trophy hunters.
 >
 > [read more](./summer_sea.md#marshes-of-malaria)
+
+> ### Elf
+> ...
+>
+> [ream more](./species.md#elf)
+
+> ### Elvenwood Tree
+> ...
 
 > ### Ephara
 > Ephara is the lawful good Goddess of Culture and Civics, symbolized by a golden column.
@@ -97,6 +110,16 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ---
 
 ## F
+
+> ### Festival of the Dead
+> ...
+>
+> [read more](./calendar.md#festival-of-the-dead)
+
+> ### Festival of the Sun
+> ...
+>
+> [read more](./calendar.md#festival-of-the-sun)
 
 ---
 
@@ -129,6 +152,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > 
 > [read more](./pantheon.md#heliod)
 
+> ### Human
+> ...
+>
+> [read more](./species.md#human)
+
 ---
 
 ## I
@@ -142,6 +170,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > Iroas is the chaotic good God of Victory, symbolized by a winged helmet.
 > 
 > [read more](./pantheon.md#iroas)
+
+> ### Iroan Games
+> ...
+> 
+> [read more](./iroangames.md)
 
 ---
 
@@ -209,7 +242,6 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [SPOILER WARNING](./mellisanthe.md)
 
-
 > ### Mogis
 > Mogis is the chaotic evil God of Slaughter, symbolized by a four-horned bulls head.
 > 
@@ -224,9 +256,34 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > 
 > [read more](./pantheon.md#nylea)
 
+> ### Nym
+> ...
+>
+> [read more](./summersea.md#the-nym)
+
+> ### Nymph
+> ...
+>
+> [read more](./species.md#nymph)
+
+> ### Nymphan Games
+> ...
+>
+> [read more](./nymphangames.md)
+
+> ### Nyx
+> ...
+>
+> [read more](./planes.md#nyx)
+
 ---
 
 ## O
+
+> ### Orc
+> ...
+>
+> [read more](./species.md#orc)
 
 ---
 
@@ -265,6 +322,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 ## R
 
+> ### Ritual of Mercy
+> ...
+
 ---
 
 ## S
@@ -289,6 +349,21 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > <details><summary>SPOILER WARNING</summary><p>The Silent Initiation Ritual is performed by the Cult of Silence to recruit new members. During the ritual the victim trades their ability to speak for access to the dark powers of the cult.
 > </p></details>
 
+> ### Silent Sea
+> ...
+>
+> [read more](./summersea.md#silent-sea)
+
+> ### Southern Shores
+> ...
+> 
+> [read more](./summersea.md#southern-shores)
+
+> ### Summers End
+> ...
+>
+> [read more](./calendar.md#summers-end)
+
 > ### Summer Sea
 > The Summer Sea provides the surrounding lands with precious warmth, food and treasures as well as a reliable though dangerous opportunity for trade and transportation.
 > 
@@ -311,7 +386,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Three Kingdom War
 > Raging for nearly a decade now, the Three Kingdom War has since escalated into a confusing territorial battle between the three great factions.
 
-> ### The Throngler
+> ### Throngler
 > <details><summary>SPOILER WARNING</summary><p>Mellisanthé's super weapon, the Throngler is feared throughout all of the Lands of the Summer Sea.</p></details>
 >
 > [SPOILER WARNING](./throngler.md)
@@ -328,6 +403,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 ## W
 
+> ### Winters End
+> ...
+> 
+> [read more](./calendar.md#winters-end)
+
 ---
 
 ## X
@@ -339,3 +419,8 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ---
 
 ## Z
+
+> ### Zwachtenbecht
+> ...
+> 
+> [read more](./calendar.md#zwachtenbecht-festival)

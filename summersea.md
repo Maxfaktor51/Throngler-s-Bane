@@ -4,6 +4,8 @@
 
 ## Northern Shores
 
+### Silent Sea
+
 ---
 
 ## Eastern Shores
