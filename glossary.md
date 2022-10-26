@@ -71,7 +71,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](./summersea.md#desert-of-certain-death)
 
 > ### Dwarf
-> ...
+> The dwarfs of the Summer Sea are short but muscular humanoids. They build in strongly fortified cities deep inside mountain ranges and only rarely venture out to interact with outsiders. 
 >
 > [read more](./species.md#dwarf)
 
@@ -85,12 +85,12 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](./summer_sea.md#marshes-of-malaria)
 
 > ### Elf
-> ...
+> Elves are tall and slender beings with pointy ears. While they have spread all across the Summer Sea, there still remain few purely elven settlements around the Silent Sea.
 >
 > [ream more](./species.md#elf)
 
 > ### Elvenwood Tree
-> ...
+> The Elvenwood is a rare species of tree and serve as a central hub for elven settlements, which grow and decline together with it. The Elves use this tree for various rituals, medicine and on special occasions make weapons from it. 
 
 > ### Ephara
 > Ephara is the lawful good Goddess of Culture and Civics, symbolized by a golden column.
@@ -112,12 +112,12 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## F
 
 > ### Festival of the Dead
-> ...
+> Happening on the last day in the month of Athreos, this festival allows people to say good bye to lost friends and family and pray for safe passage into the afterlife. 
 >
 > [read more](./calendar.md#festival-of-the-dead)
 
 > ### Festival of the Sun
-> ...
+> This colorfull festival celebrates the Sun God Heliod and takes place in the middle of summer.
 >
 > [read more](./calendar.md#festival-of-the-sun)
 
@@ -153,7 +153,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](./pantheon.md#heliod)
 
 > ### Human
-> ...
+> Humans are spread around the Summer Sea. They are very adaptive and versatile and, according to orcs, quite delicious.
 >
 > [read more](./species.md#human)
 
@@ -172,7 +172,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](./pantheon.md#iroas)
 
 > ### Iroan Games
-> ...
+> The Iroan Games are held in the name of the God of Victory. During the last week of the month of Iroas, beings from all around the Summer Sea have a chance to prove their merit across various disciplines.
 > 
 > [read more](./iroangames.md)
 
@@ -257,22 +257,22 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](./pantheon.md#nylea)
 
 > ### Nym
-> ...
+> The Nym is a almost fairy like region just east of the Sacred Mountain. Inhabited by Nymphs who ferociously defend their territory, not much is known about these deep forests.
 >
 > [read more](./summersea.md#the-nym)
 
 > ### Nymph
-> ...
+> Nymphs are fairy like humanoids living exclusively in the Forests of Nym. They are very isolated and do not like nosy adventurers entering their sacred woods.
 >
 > [read more](./species.md#nymph)
 
 > ### Nymphan Games
-> ...
+> Once a year, the Nymphs allow outsiders to enter their sacred woods and prove worthy in a special hunting contest held to honour Nylea, the Godess of the Hunt. This priviledge to enter might however come at high cost, as those who loose end up being enslaved for the rest of their life.
 >
 > [read more](./nymphangames.md)
 
 > ### Nyx
-> ...
+> Also referred to as the Afterlife, the Nyx is a magical plane of existence, detached from the common mortal plane.
 >
 > [read more](./planes.md#nyx)
 
@@ -281,7 +281,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## O
 
 > ### Orc
-> ...
+> Orcs are big, brutal humanoids who have a costant, inborn need to fight. What they lack in brains, they make up for in numbers and strength.
 >
 > [read more](./species.md#orc)
 
@@ -323,7 +323,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## R
 
 > ### Ritual of Mercy
-> ...
+> The Ritual of Mercy can only be performed at the Sacred Mountain and allows two mortal parties to break a contract that has previously been sealed in front of one or more Gods.
+>
+> [read more](./rituals.md#ritual-of-mercy)
 
 ---
 
@@ -333,7 +335,6 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > A few miles north of Pópolis stands the majestic Sacred Mountain, believed to be home for the gods themselves.
 >
 > [read more](./pantheon.md#sacred-mountain)
-
 
 > ### Savage Lands
 > Called the Savage Lands by the civilized kingdoms this faction holds the southern territories as well as the remote steppes in the far east.
@@ -350,17 +351,17 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > </p></details>
 
 > ### Silent Sea
-> ...
+> Called so because of its mirror-like flatness and sound absorbing fogs, the Silet Sea is north of the Western Summer Sea.
 >
 > [read more](./summersea.md#silent-sea)
 
 > ### Southern Shores
-> ...
+> The Southern Shores harbors major trading hubs such as Pópolis or Leopolis as well as many important Landmarks such as the Sacred Mountain, the Nym, the Desert of Certain Death or the Canyon of Corpses.
 > 
 > [read more](./summersea.md#southern-shores)
 
 > ### Summers End
-> ...
+> Summers End is a festival marking the end of summer and signals reminds to prepare for the harsh cold season.
 >
 > [read more](./calendar.md#summers-end)
 
@@ -404,7 +405,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## W
 
 > ### Winters End
-> ...
+> Winters End marks the end of winter in the Summer Sea. Those who survived it spend this holiday by thanking the Gods of the Weather like Thassa or Keranos.
 > 
 > [read more](./calendar.md#winters-end)
 
@@ -421,6 +422,6 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## Z
 
 > ### Zwachtenbecht
-> ...
+> No one rememebrs how this late Summer Festival was originally celebrated and so each one celebrates it in their own way.
 > 
 > [read more](./calendar.md#zwachtenbecht-festival)
