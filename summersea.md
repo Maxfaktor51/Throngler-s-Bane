@@ -54,3 +54,7 @@
 ### Sea of Drifting Ice
 
 ### Skónan's Valley
+
+---
+## Further Reading
+This has been an article about the [*Summer Sea*](./glossary.md#summer-sea). For further reading please check out the [*Encyclopedia*](./index.md).

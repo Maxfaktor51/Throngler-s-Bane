@@ -5,3 +5,7 @@
 ## History
 ## Culture
 ## Geography
+
+---
+## Further Reading
+This has been an article about the [*Kingdom of Epsylon*](./glossary.md#kingdom-of-epsylón). For further reading please check out the [*Encyclopedia*](./index.md).
