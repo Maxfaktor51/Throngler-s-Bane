@@ -7,10 +7,10 @@ The months are named after the Gods of the Pantheon alphabetically as follows: M
 
 ---
 
-![]()
-
 ## Important Dates
 There are many culturally important days throughout the [*Akínitonian year*](./glossary.md#akínitos). The most famous and widely celebrated ones are listed below.
+
+![Candles lit along path for the Festival of the Dead](./assets/img022.png)
 
 ### Festival of the Dead
 **Pemptos, 20th day in the Month of [*Athreos*](./glossary.md#athreos)**
@@ -19,7 +19,7 @@ The [*Festival of the Dead*](./glossary.md#festival-of-the-dead) is commonly hel
 
 ---
 
-![]()
+![Festival of the Sun near Okeanopolis](./assets/img023.png)
 
 ### Festival of the Sun
 **Pemptos, 15th day in the Month of [*Heliod*](./glossary.md#heliod)**
@@ -28,7 +28,7 @@ The [*Festival of the Sun*](./glossary.md#festival-of-the-sun) celebrates the mi
 
 ---
 
-![]()
+![Horse race event at the Iroan Games](./assets/img024.png)
 
 ### Iroan Games
 **Protos, 16th day in the Month of [*Iroas*](./glossary.md#iroas)**
@@ -46,7 +46,7 @@ The [*Zwachtenbecht Festival of the Ancestors*](./glossary.md#zwachtenbecht) is 
 
 ---
 
-![]()
+![A shrine to Klothys](./assets/img025.png)
 
 ### Summers End
 **Pemptos, 10th day in the Month of [*Klothys*](./glossary.md#klothys)**
@@ -55,7 +55,7 @@ As the name suggests, [*Summers End*](./glossary.md#summers-end) is held at the 
 
 ---
 
-![]()
+![Nymphs dacing in the forest](./assets/img026.png)
 
 ### Nymphan Games
 **Protos, 1st day in the Month of [*Nylea*](./glossary.md#nylea)**
@@ -66,7 +66,7 @@ When the games begin, a group of hunters enters the [*Sacred Hunting Grounds*](.
 
 ---
 
-![]()
+![A view of the Silent Sea](./assets/img027.png)
 
 ### Goldleaf Festival
 **Pemptos, 20th day in the Month of [*Nylea*](./glossary.md#nylea)**
@@ -75,7 +75,7 @@ Far across the [*Summer Sea*](./glossary.md#summer-sea) the [*elves*](./glossary
 
 ---
 
-![]()
+![Group prayer during Winters End](./assets/img028.png)
 
 ### Winters End
 **Pemptos, 20th day in the Month of [*Thassa*](./glossary.md#thassa)**
