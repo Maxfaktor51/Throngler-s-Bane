@@ -9,7 +9,7 @@ If you are a player, DO NOT read any further
 
 ---
 
-In order to achieve goodhood, a dark evil entity called [*Prince Morbogh of Eternal Doom*](./glossary.md#prince-morbogh-of-eternal-doom) from the [*Darkness before Time*](./glossary.md#darkness-before-time) made a pact with the sorceress [*Mellisanthé the Cruel*](./glossary.md#mellisanthé-the-cruel): he provides the sorceress with exceptional dark powers and so that she in return executes his mischievous plans of world domination.
+In order to achieve godhood, a dark evil entity called [*Prince Morbogh of Eternal Doom*](./glossary.md#prince-morbogh-of-eternal-doom) from the [*Darkness before Time*](./glossary.md#darkness-before-time) made a pact with the sorceress [*Mellisanthé the Cruel*](./glossary.md#mellisanthé-the-cruel): he provides the sorceress with exceptional dark powers and so that she in return executes his mischievous plans of world domination.
 
 This [*evil masterplan*](./glossary.md#cult-of-silence) is has three requirements that need to be fullfilled before it can be executed: the securing of knowledge, might and magic. Once all three have been satisfied, the final stage begins. [*Mellisanthé*](./glossary.md#mellisanthé-the-cruel) and her minions will be constantly and devotedly working toward this goal.
 
