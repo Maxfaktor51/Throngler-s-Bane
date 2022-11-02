@@ -1,4 +1,8 @@
+## Centaur
+
 ## Dwarf
+
+## Dark Elf
 
 ## Elf
 

@@ -29,6 +29,10 @@
 ## West Summer Sea
 
 ---
+
+## Spiderweb Caves
+
+---
 ## Points of Interest
 
 ### Cyclops Mountains

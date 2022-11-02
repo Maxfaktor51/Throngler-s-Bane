@@ -59,6 +59,14 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Dark Age of Confusion
 > After an unexcpeted shift in the heavens caused the old calendar to become obsolete, the entire population of the Summer Sea has lost track of time. As such noone can tell how long it took until a the new calendar has been established and time could be measured again.
 
+> ### Dark Elf
+> A Dark Elf is a rare and mysterious being, closely related to the classic surface dwelling elf. They have darker skin and live underground.
+>
+> [read more](./species.md#dark-elf)
+
+> ### Dark Lady Dorothéa
+> Dark Lady Dorothéa was the last Queen of the Lost Kingdom and is to this day being worshipped as a demigod by many dark elves. 
+
 > ### Darkness before Time
 > Considered blasphemy by the general public, the Darkness before Time is considered to be the time period before the Gods even created the World. 
 
@@ -82,7 +90,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Ebóla River
 > The Ebóla River is the second longest river flowing into the northern parts of the Marshes of Malaria. Infested with many dangerous animals it remains a favorite target for trophy hunters.
 >
-> [read more](./summer_sea.md#marshes-of-malaria)
+> [read more](./summersea.md#marshes-of-malaria)
 
 > ### Elf
 > Elves are tall and slender beings with pointy ears. While they have spread all across the Summer Sea, there still remain few purely elven settlements around the Silent Sea.
@@ -228,6 +236,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 ## L
 
+> ### Lost Kingdom
+> The Lost Kingdom was once a wealthy society of dark elves who struck fear all across the Summer Sea through their expansive cave network.
+
 ---
 
 ## M
@@ -359,6 +370,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > The Southern Shores harbors major trading hubs such as Pópolis or Leopolis as well as many important Landmarks such as the Sacred Mountain, the Nym, the Desert of Certain Death or the Canyon of Corpses.
 > 
 > [read more](./summersea.md#southern-shores)
+
+> ### Spiderweb Cave System
+> The Spiderweb cave system is a massive net of connected caves and tunnels, spreading all underneath the Summer Sea. It is filled with dangerous monsters and ancient, evil magic.
+>
+> [read more](./summersea.md#spiderweb-caves)
 
 > ### Summers End
 > Summers End is a festival marking the end of summer and signals reminds to prepare for the harsh cold season.
