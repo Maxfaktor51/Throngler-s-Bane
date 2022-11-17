@@ -1,6 +1,6 @@
-# The Cult of Silence
-
 ![Cultists of Silence gathered to initiate a new member](./assets/img012.png)
+
+# The Cult of Silence
 
 The Cult of Silence has been devoted to quietly serve the [*Ancient One*](./glossary.md#ancient-evil), also known as the [*Ancient Evil*](./glossary.md#ancient-evil) for a very long time now. As they are considered heretics by pretty much all the other priests of the Summer Sea, the cult has been forced to operate in the shadows ever since it has been founded.
 

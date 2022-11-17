@@ -1,4 +1,10 @@
+![Undead Centaurs charging at the enemy](./assets/img031.png)
+
 # The Eternal Army
+
+## Hierarchy & Structure
+
+## Noteworthy members
 
 ---
 ## Further Reading

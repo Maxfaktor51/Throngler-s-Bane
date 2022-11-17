@@ -1,4 +1,5 @@
 ![Early Akínitonian Calendar](./assets/img021.png)
+
 # Calendar
 
 This is the [*Akínitionian*](./glossary.md#akínitos) Calendar. The year is split into 15 months each exactly four weeks or 20 days long. Days of the week are as follows: Protos, Duteros, Tritos, Tetaros, Pemptos. While all sentients in the [*Summer Sea*](./glossary.md#summer-sea) use the same divisions, they reference the dates differently - the more technical [*dwarves*](./glossary.md#dwarf) write their dates as Day.WW.YYYY (i.e. Tritos.56.1234) while the more nature oriented [*elves*](./glossary.md#elf) use Nth Day in Month of Year YYYY (i.e. 2nd Protos in the Moon of Ephara, 1234).
