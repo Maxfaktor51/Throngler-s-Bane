@@ -2,7 +2,7 @@
 
 You found the wiki for my Dungeons and Dragons campaign. If you are new here I suggest reading the [overview](./overview.md) or check out one of the following topics:
 
-* [Places](./places.md)
+* [Places](./places.md) ([Maps](./maps.md))
 * [People](./people.md)
 * [Lore](./lore.md)
 

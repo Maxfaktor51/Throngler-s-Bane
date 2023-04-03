@@ -2,6 +2,8 @@
 
 This is a glossary of all highlighted terms. Some have dedicated pages with further information.
 
+[A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [I](#i) - [J](#j) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [R](#r) - [S](#s) - [T](#t) - [U](#u) - [V](#v) - [W](#w) - [X](#x) - [Y](#y) - [Z](#z)
+
 ## A
 
 > ### Akínitos
@@ -117,6 +119,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [read more](./pantheon.md#the-great-dispute)
 
+> ### Great Glacier
+> A massive Glacier many miles long in the north of the province of Khyría.
+>
+> [read more](./khyria.md#the-great-glacier)
+
 ---
 
 ## H
@@ -128,6 +135,14 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > Heliod is the lawful good God of the Sun, symbolized by a laurel crown.
 > 
 > [read more](./pantheon.md#heliod)
+
+> ### Horsemen Mountains
+> ...
+
+> ### Hyppónia
+> A province on the Northern Shores of the Summer Sea
+>
+> [read more](./northernshores.md#province-of-hyppónia)
 
 ---
 
@@ -160,6 +175,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > Keranos is the chaotic neutral God of Storms, symbolized by a blue eye.
 > 
 > [read more](./pantheon.md#keranos)
+
+> ### Khyría
+> A province on the Northern Shores of the Summer Sea.
+>
+> [read more](./northernshores.md#province-of-khyría)
 
 > ### Kiffalón
 > The biggest island in the East Summer Sea, Kiffalón is famous for it's mellow inhabitants.
@@ -219,6 +239,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 ## N
 
+> ### Northern Shores
+> A region of the Summer Sea.
+>
+> [read more](./northernshores.md)
+
 > ### Nylea
 > Nylea is the true neutral Godess of the Hunt, symbolized by four arrows.
 > 
@@ -227,6 +252,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ---
 
 ## O
+
+> ### Okeánia
+> A province on the Northern Shores of the Summer Sea.
+>
+> [read more](./northernshores.md#province-of-okeánia)
 
 ---
 
@@ -286,8 +316,12 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](./akinitos.md#the-sea-of-endless-ice)
 
 > ### Silent Initiation Ritual
-> <details><summary>SPOILER WARNING</summary><p>The Silent Initiation Ritual is performed by the Cult of Silence to recruit new members. During the ritual the victim trades their ability to speak for access to the dark powers of the cult.
-> </p></details>
+> <details><summary>SPOILER WARNING</summary><p>The Silent Initiation Ritual is performed by the Cult of Silence to recruit new members. During the ritual the victim trades their ability to speak for access to the dark powers of the cult.</p></details>  
+
+> ### Skónan's Valley
+> A dangerous region in the Cyclops Mountains, named after Skónan, a massive Cyclops who is rumoured to live there.
+>
+> [read more](./legendofskonan.md)
 
 > ### Summer Sea
 > The Summer Sea provides the surrounding lands with precious warmth, food and treasures as well as a reliable though dangerous opportunity for trade and transportation.

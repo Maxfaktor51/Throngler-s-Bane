@@ -1,54 +1,45 @@
-![A map of the Summer Sea](./assets/map_summersea.png)
+# Known Lands of the Summer Sea
 
-# The Summer Sea
+![A view of the Summer Sea](./images/img034.png)
+
+The Lands of the [Summer Sea](./glossary.md#summer-sea) are encircled by the [Ice Wall](./glossary.md#ice-wall) and commonly separated into three main regions, each further separated into three more provinces.
+
+---
 
 ## Northern Shores
 
----
+![The Northern Shores highlighted](./images/highlight_northshore.png)
 
-## Eastern Shores
+The [Northern Shores](./glossary.md#northern-shores) all belong to the [Kingdom of Epsylón](./glossary.md#kingdom-of-epsylón). They are split (west to east) into the provinces of [Okeánia](./glossary.md#okeánia), [Khyría](./glossary.md#khyría) and [Hyppónia](./glossary.md#hyppónia).
 
----
+The great [Cyclops Mountains](./glossary.md#cyclops-mountains) as well as the legendary [Valley of Skónan](./glossary.md#skónans-valley) can be found here, along with the [Great Glacier](./glossary.md#great-glacier), the [Horseman Mountains](./glossary.md#horseman-mountains) and the [Gate to Oblivion](./glossary.md#gate-to-oblivion).
 
-## Southern Shores
+[**read more**](./northernshores.md)
 
 ---
 
 ## Western Shores
 
----
+![The Western Shores highlighted](./images/highlight_westshore.png)
 
-## East Summer Sea
+The [Western Shores](./glossary.md#western-shores) all belong to the [Kingdom of Nabla](./glossary.md#kingdom-of-nabla). They are split (north to south) into the provinces of [Boréa](./glossary.md#boréa), [Malária](./glossary.md#malária) and [Théa](./glossary.md#théa).
 
-### Kiffalón
+The cold [Frostwind Steppe](./glossary.md#frostwind-steppe) as well as the dangerous [Marshes of Malária](./glossary.md#marshes-of-malária) can be found here, along with the [Sea of Drifting Ice](./glossary.md#sea-of-drifting-ice) in the south.
 
----
-
-## West Summer Sea
+[**read more**](./westernshores.md)
 
 ---
-## Points of Interest
 
-### Cyclops Mountains
+## Southern Shores
 
-### Desert of Certain Death
+![The Southern Shores highlighted](./images/highlight_southshore.png)
 
-### Frostwind Steppe
+The [Southern Shores](./glossary.md#southern-shores) all belong to the [Savages of the South](./glossary.md#savage-lands). They are split (west to east) into the [Nym](./glossary.md#nym), the [Lion Fields](./glossary.md#lion-fields) and [Necrón](./glossary.md#necrón) - also called the Lands of the Dead.
 
-### Gate to Oblivion
+The deadly [Desert of Certain Death](./glossary.md#desert-of-certain-death) with the [Great Canyon of Corpses](./glossary.md#great-canyon-of-corpses) can be found here, just like the deep forests of the [Nym](./glossary.md#nym) and the [Sacred Mountain](./glossary.md#sacred-mountain) rising above.
 
-### Great Canyon of Corpses
+[**read more**](./southernshores.md)
 
-### The Great Glacier
+---
 
-### Horseman Mountains
-
-### Ice Wall
-
-### Marshes of Malaria
-
-### The Nym
-
-### Sea of Drifting Ice
-
-### Skónan's Valley
+Go back: [Index](./index.md) / [Places](./places.md)
