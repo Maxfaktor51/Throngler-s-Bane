@@ -2,9 +2,9 @@
 
 You found the wiki for my Dungeons and Dragons campaign. If you are new here I suggest reading the [overview](./overview.md) or check out one of the following topics:
 
-* [Places](./pages/places.md)
-* [People](./pages/people.md)
-* [Lore](./pages/lore.md)
+* [Places](./places.md)
+* [People](./people.md)
+* [Lore](./lore.md)
 
 If you already know what you are looking for, I suggest browsing the [glossary](./glossary.md).
 
