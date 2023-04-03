@@ -6,8 +6,8 @@ The planet [*Akínitos*](/glossary.md#akínitos) is almost entirely covered by i
 
 ---
 
-Read more about the [Known World](./places/summersea.md).
+Read more about the [Known World](./summersea.md).
 
-Read more about what lies [beyond the Ice Wall](./places/icewall.md).
+Read more about what lies [beyond the Ice Wall](./icewall.md).
 
-Go back to [Home](/index.md).
+Go back to [Home](./index.md).
