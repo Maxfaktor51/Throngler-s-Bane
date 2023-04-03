@@ -1,8 +1,12 @@
-<img src="./assets/img015.png" width="350px" id="fright">
-
 **Ahoj, noble seeker of knowledge!**  
 
-You found the wiki for my Dungeons and Dragons campaign. If you are new here I suggest reading the [overview](./overview.md) - if you already know what you are looking for, I suggest browsing the [glossary](./glossary.md).
+You found the wiki for my Dungeons and Dragons campaign. If you are new here I suggest reading the [overview](./overview.md) or check out one of the following topics:
+
+*[Places](./pages/places.md)
+*[People](./pages/people.md)
+*[Lore](./pages/lore.md)
+
+If you already know what you are looking for, I suggest browsing the [glossary](./glossary.md).
 
 Please note that this wiki is a constant work in progress and content is most likely due to change as the PCs bring inevitable chaos upon this beautiful world.
 
