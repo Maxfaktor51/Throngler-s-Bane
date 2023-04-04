@@ -1,4 +1,4 @@
-<img src="./images/img034_banner.png" class="center">
+![a view of the Summer Sea](./images/img034_banner.png)
 
 ## Lands of the Summer Sea
 
