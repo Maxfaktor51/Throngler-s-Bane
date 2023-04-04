@@ -6,7 +6,7 @@ The Lands of the [Summer Sea](./glossary.md#summer-sea) are encircled by the [Ic
 
 ---
 
-<img src="/images/highlight_northshore" style="fright">
+<img src="https:maxfaktor51.github.io/throngler/images/highlight_northshore.png" style="fright">
 
 ## Northern Shores
 
