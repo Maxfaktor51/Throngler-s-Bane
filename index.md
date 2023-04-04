@@ -1,12 +1,27 @@
 **Ahoj, noble seeker of knowledge!**  
 
-You found the wiki for my Dungeons and Dragons campaign. If you are new here I suggest reading the [overview](./overview.md) or check out one of the following topics:
+You found the wiki for my Dungeons and Dragons campaign. If you are new here I suggest reading the [overview](./overview.md) or click on the pictures for one of the following topics: places, people or lore.
 
-* [Places](./places.md) ([Maps](./maps.md))
-* [People](./people.md)
-* [Lore](./lore.md)
+<div style="display:flex; gap:5px">
+    <div>
+        <a href="./places.html">
+            <img src="./images/img037.png">
+        </a>
+    </div>
+    <div>
+        <a href="./people.html">
+            <img src="./images/img035.png">
+        </a>
+    </div>
+    <div>
+        <a href="./lore.html">
+            <img src="./images/img036.png">
+        </a>
+    </div>
+</div>
 
-If you already know what you are looking for, I suggest browsing the [glossary](./glossary.md).
+
+Alternatively, if you already know what you are looking for, I suggest browsing the [glossary](./glossary.md).
 
 Please note that this wiki is a constant work in progress and content is most likely due to change as the PCs bring inevitable chaos upon this beautiful world.
 
