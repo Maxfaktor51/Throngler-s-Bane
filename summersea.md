@@ -1,4 +1,4 @@
-<img src="./images/img034.png" width="400" id="fleft">
+<img src="./images/img034.png" width="500">
 
 # Lands of the Summer Sea
 
