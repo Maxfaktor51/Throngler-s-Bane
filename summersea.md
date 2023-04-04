@@ -1,6 +1,6 @@
-<header style="background-image: url('./images/img034.png')"></header>
+<img src="./images/img034.png" width="500" id="fleft">
 
-# Lands of the Summer Sea
+## Lands of the Summer Sea
 
 The Lands of the [Summer Sea](./glossary.md#summer-sea) are encircled by the [Ice Wall](./glossary.md#ice-wall) and commonly separated into three main regions, each further separated into three more provinces.
 
