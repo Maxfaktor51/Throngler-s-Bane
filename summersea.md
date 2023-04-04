@@ -1,4 +1,4 @@
-<img src="./images/img034.png" width="500" id="fleft">
+<img src="./images/img034.png" width="400" id="fright">
 
 ## Lands of the Summer Sea
 
@@ -6,7 +6,7 @@ The Lands of the [Summer Sea](./glossary.md#summer-sea) are encircled by the [Ic
 
 ---
 
-<img src="./images/highlight_northshore.png" width="400" id="fright">
+<img src="./images/highlight_northshore.png" width="400" id="fleft">
 
 ## Northern Shores
 
@@ -17,7 +17,7 @@ The great [Cyclops Mountains](./glossary.md#cyclops-mountains) as well as the le
 [**read more**](./northernshores.md)
 
 ---
-<img src="./images/highlight_westshore.png" width="400" id="fleft">
+<img src="./images/highlight_westshore.png" width="400" id="fright">
 
 ## Western Shores
 
@@ -29,7 +29,7 @@ The cold [Frostwind Steppe](./glossary.md#frostwind-steppe) as well as the dange
 
 ---
 
-<img src="./images/highlight_southshore.png" width="400" id="fright">
+<img src="./images/highlight_southshore.png" width="400" id="fleft">
 
 ## Southern Shores
 
