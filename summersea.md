@@ -1,4 +1,4 @@
-<header style="background-image: url('./images/img034.png')">
+<header style="background-image: url('./images/img034.png')"></header>
 
 # Lands of the Summer Sea
 
