@@ -1,12 +1,12 @@
-![a view of the Summer Sea](./images/img034_banner.png)
-
-## Lands of the Summer Sea
+# Lands of the Summer Sea
 
 The Lands of the [Summer Sea](./glossary.md#summer-sea) are encircled by the [Ice Wall](./glossary.md#ice-wall) and commonly separated into three main regions, each further separated into three more provinces.
 
+![a view of the Summer Sea](./images/img034_banner.png)
+
 ---
 
-<a href="./northernshores.md"><img src="./images/highlight_northshore.png" width="400" id="fleft"></a>
+<img src="./images/highlight_northshore.png" width="50%" id="fleft">
 
 ## Northern Shores
 
@@ -14,8 +14,10 @@ The [Northern Shores](./glossary.md#northern-shores) all belong to the [Kingdom 
 
 The great [Cyclops Mountains](./glossary.md#cyclops-mountains) as well as the legendary [Valley of Skónan](./glossary.md#skónans-valley) can be found here, along with the [Great Glacier](./glossary.md#great-glacier), the [Horseman Mountains](./glossary.md#horseman-mountains) and the [Gate to Oblivion](./glossary.md#gate-to-oblivion).
 
+[**read more**](./northernshores.md)
+
 ---
-<img src="./images/highlight_westshore.png" width="400" id="fright">
+<img src="./images/highlight_westshore.png" width="50%" id="fright">
 
 ## Western Shores
 
@@ -27,7 +29,7 @@ The cold [Frostwind Steppe](./glossary.md#frostwind-steppe) as well as the dange
 
 ---
 
-<img src="./images/highlight_southshore.png" width="400" id="fleft">
+<img src="./images/highlight_southshore.png" width="50%" id="fleft">
 
 ## Southern Shores
 
