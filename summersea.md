@@ -6,15 +6,13 @@ The Lands of the [Summer Sea](./glossary.md#summer-sea) are encircled by the [Ic
 
 ---
 
-<img src="./images/highlight_northshore.png" width="400" id="fleft">
+<a href="./northernshores.md"><img src="./images/highlight_northshore.png" width="400" id="fleft"></a>
 
 ## Northern Shores
 
 The [Northern Shores](./glossary.md#northern-shores) all belong to the [Kingdom of Epsylón](./glossary.md#kingdom-of-epsylón). They are split (west to east) into the provinces of [Okeánia](./glossary.md#okeánia), [Khyría](./glossary.md#khyría) and [Hyppónia](./glossary.md#hyppónia).
 
 The great [Cyclops Mountains](./glossary.md#cyclops-mountains) as well as the legendary [Valley of Skónan](./glossary.md#skónans-valley) can be found here, along with the [Great Glacier](./glossary.md#great-glacier), the [Horseman Mountains](./glossary.md#horseman-mountains) and the [Gate to Oblivion](./glossary.md#gate-to-oblivion).
-
-[**read more**](./northernshores.md)
 
 ---
 <img src="./images/highlight_westshore.png" width="400" id="fright">
