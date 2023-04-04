@@ -1,6 +1,6 @@
-# Known Lands of the Summer Sea
+<img src="./images/img034.png" width="400" id="fleft">
 
-![A view of the Summer Sea](./images/img034.png)
+# Lands of the Summer Sea
 
 The Lands of the [Summer Sea](./glossary.md#summer-sea) are encircled by the [Ice Wall](./glossary.md#ice-wall) and commonly separated into three main regions, each further separated into three more provinces.
 
@@ -17,10 +17,9 @@ The great [Cyclops Mountains](./glossary.md#cyclops-mountains) as well as the le
 [**read more**](./northernshores.md)
 
 ---
+<img src="./images/highlight_westshore.png" width="400" id="fleft">
 
 ## Western Shores
-
-![The Western Shores highlighted](./images/highlight_westshore.png)
 
 The [Western Shores](./glossary.md#western-shores) all belong to the [Kingdom of Nabla](./glossary.md#kingdom-of-nabla). They are split (north to south) into the provinces of [Boréa](./glossary.md#boréa), [Malária](./glossary.md#malária) and [Théa](./glossary.md#théa).
 
@@ -30,9 +29,9 @@ The cold [Frostwind Steppe](./glossary.md#frostwind-steppe) as well as the dange
 
 ---
 
-## Southern Shores
+<img src="./images/highlight_southshore.png" width="400" id="fright">
 
-![The Southern Shores highlighted](./images/highlight_southshore.png)
+## Southern Shores
 
 The [Southern Shores](./glossary.md#southern-shores) all belong to the [Savages of the South](./glossary.md#savage-lands). They are split (west to east) into the [Nym](./glossary.md#nym), the [Lion Fields](./glossary.md#lion-fields) and [Necrón](./glossary.md#necrón) - also called the Lands of the Dead.
 
