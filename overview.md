@@ -1,6 +1,6 @@
 # Lands of the Summer Sea - An Overview
 
-![A view of the Summer Sea](./assets/img001.png)
+![A view of the Summer Sea](./images/img001.png)
 
 **Welcome adventurer!** This article serves as an overview of the Land of the Summer Sea, much like a tourist information pamphlet if you will :-)   
 
@@ -20,7 +20,7 @@ Rich game and fastastic beasts can be found lurking the forests while the planes
 
 ---
 
-![The Sacred Mountain](./assets/img002.png)
+![The Sacred Mountain](./images/img002.png)
 
 ## Myths and Legends
 ### How the World came to be
@@ -40,7 +40,7 @@ What started as an attempt to annect the island of [*Kiffalón*](./glossary.md#k
 
 ---
 
-![The old Temple on Kiffalón](./assets/img003.png)
+![The old Temple on Kiffalón](./images/img003.png)
 
 ## Culture and Politics
 ### The Three Kingdoms

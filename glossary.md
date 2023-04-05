@@ -302,7 +302,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](./pantheon.md#phenax)
 
 > ### Philosophers of Pi
-> A noble society of elders, thinkers and scientists residint in the city o Pi.
+> A noble society of elders, thinkers and scientists residing in the city o Pi.
 
 > ### Prince Morbogh of Eternal Doom
 > <details><summary>SPOILER WARNING</summary><p>Morbogh is a prince of the Ancient Evil from the Darkness before time.</p></details>
