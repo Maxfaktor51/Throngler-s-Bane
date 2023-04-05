@@ -26,6 +26,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 ## B
 
+> ### Boréa
+> A province on the western Shores of the Summer Sea.
+>
+> [read more](./westernshores.md#province-of-boréa)
+
 ---
 
 ## C
@@ -137,7 +142,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](./pantheon.md#heliod)
 
 > ### Horsemen Mountains
-> ...
+> The homeland of the Centaurs, on the east end of the Northern Shores
 
 > ### Hyppónia
 > A province on the Northern Shores of the Summer Sea
@@ -215,9 +220,19 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 ## L
 
+> ### Lion Fields
+> The Lion Fields belong to the centre of the Southern Shores region.
+>
+> [read more](./southernshores.md#the-lion-fields)
+
 ---
 
 ## M
+
+> ### Malária
+> A province on the western shores of the Summer Sea.
+>
+> [read more](./westernshores.md#province-of-malária)
 
 > ### Malaria River
 > Malaria is the name-giving as well as longest and southernmost river flowing into the Marshes of Malaria.
@@ -229,7 +244,6 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [SPOILER WARNING](./mellisanthe.md)
 
-
 > ### Mogis
 > Mogis is the chaotic evil God of Slaughter, symbolized by a four-horned bulls head.
 > 
@@ -238,6 +252,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ---
 
 ## N
+
+> ### Necrón
+> Also called the *Lands of the Dead*, Necrón province in the far east of the Southern Shores.
+>
+> [read more](./southernshores.md#necrón)
 
 > ### Northern Shores
 > A region of the Summer Sea.
@@ -248,6 +267,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > Nylea is the true neutral Godess of the Hunt, symbolized by four arrows.
 > 
 > [read more](./pantheon.md#nylea)
+
+> ### Nym
+> The Nym is a mystical province in the east of the Southern Shores.
+>
+> [read more](./southernshores.md#the-nym)
 
 ---
 
@@ -277,6 +301,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > 
 > [read more](./pantheon.md#phenax)
 
+> ### Philosophers of Pi
+> A noble society of elders, thinkers and scientists residint in the city o Pi.
+
 > ### Prince Morbogh of Eternal Doom
 > <details><summary>SPOILER WARNING</summary><p>Morbogh is a prince of the Ancient Evil from the Darkness before time.</p></details>
 >
@@ -304,7 +331,6 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [read more](./pantheon.md#sacred-mountain)
 
-
 > ### Savage Lands
 > Called the Savage Lands by the civilized kingdoms this faction holds the southern territories as well as the remote steppes in the far east.
 >
@@ -323,10 +349,15 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [read more](./legendofskonan.md)
 
+> ### Southern Shores
+> A region in the south of the Summer Sea
+>
+> [read more](./southernshores.md)
+
 > ### Summer Sea
 > The Summer Sea provides the surrounding lands with precious warmth, food and treasures as well as a reliable though dangerous opportunity for trade and transportation.
 > 
-> [read more](./summersea.md)
+> [read more](./places.md)
 
 ---
 
@@ -342,10 +373,15 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > 
 > [read more](./pantheon.md#thassa)
 
+> ### Théa
+> A province on the western shores of the Summer Sea.
+>
+> [read more](./westernshores.md#province-of-théa)
+
 > ### Three Kingdom War
 > Raging for nearly a decade now, the Three Kingdom War has since escalated into a confusing territorial battle between the three great factions.
 
-> ### The Throngler
+> ### Throngler
 > <details><summary>SPOILER WARNING</summary><p>Mellisanthé's super weapon, the Throngler is feared throughout all of the Lands of the Summer Sea.</p></details>
 >
 > [SPOILER WARNING](./throngler.md)
@@ -361,6 +397,11 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ---
 
 ## W
+
+> ### Western Shores
+> A region of the Summer Sea.
+>
+> [read more](./westernshores.md)
 
 ---
 
