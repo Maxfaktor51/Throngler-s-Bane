@@ -2,6 +2,8 @@
 
 The Lands of the [*Summer Sea*](./glossary.md#summer-sea) are encircled by the [*Ice Wall*](./glossary.md#ice-wall) and commonly separated into three main regions, each further separated into three more provinces.
 
+[**For a list of Maps click me!**](./maps.md)
+
 ![a view of the Summer Sea](./images/img034_banner.png)
 
 ---
@@ -41,11 +43,23 @@ The deadly [*Desert of Certain Death*](./glossary.md#desert-of-certain-death) wi
 
 ---
 
-<img src="./images/map_akinitos.png" id="fright">
+<img src="./images/img038.png" id="fright">
+
+## Below the Summer Sea
+
+Spanning all underneath the [*Summer Sea*](./glossary.md#spiderweb-caves) is a vast network of caves, called the [*Spiderwebs*](./glossary.md#spiderwebs-cave-network). Some are safe and used by [*dwarves*](./glossary.md#dwarf) as highways, some are empty and some are occupied by noble [*drow*](./glossary.md#drow) and their servants. It is unknown how deep the caves go and what unknown dangers and treasures lurk hidden below in the darkness. 
+
+[**read more**](./spiderwebs.md)
+
+---
+
+<img src="./images/img039.png" id="fleft">
 
 ## Beyond the Summer Sea
 
-It is unknown what lies beyond the [*Ice Wall*](./glossary.md#ice-wall). Numerous [*expeditions*](./expeditionsbeyond.md) have been undertaken up and beyond but seldom they returned to tell the tale. And those who did say they saw nothing but ice out there. Using looking glasses and mathematical magic, the [*Philosophers of Pi*](./glossary.md#philosophers-of-pi) were however able to deduce some knowledge about the planet the [*Summer Sea*](./glossary.md#summer-sea) lies on: [*Akínitos*](./glossary.md#akínitos).
+It is unknown what lies beyond the [*Ice Wall*](./glossary.md#ice-wall). Numerous [*expeditions*](./expeditionsbeyond.md) have been undertaken up and beyond but seldom they returned to tell the tale. Using looking glasses and mathematical magic, the [*Philosophers of Pi*](./glossary.md#philosophers-of-pi) were however able to deduce some knowledge about the planet the [*Summer Sea*](./glossary.md#summer-sea) lies on: [*Akínitos*](./glossary.md#akínitos).
+
+[**read more**](./akinitos.md)
 
 ---
 
