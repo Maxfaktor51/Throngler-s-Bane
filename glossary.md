@@ -31,6 +31,10 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [read more](./westernshores.md#province-of-boréa)
 
+> ### Brekéke
+>
+> ... 
+
 ---
 
 ## C
@@ -53,6 +57,10 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > The Cult of Silence is a mysterious organisation that works in the shadows to execute their master plan.
 > 
 > [SPOILER WARNIG](./cultofsilence.md)
+
+> ### Curse of the Swamp
+>
+> ...
 
 > ### Cyclops Mountains
 > North of Okeanopolis are the Cyclops Mountains, home of huge one-eyed beasts who like to feast on careless travelers.
@@ -104,6 +112,10 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ---
 
 ## F
+
+> ### Frogleg Tavern
+>
+> ...
 
 ---
 
@@ -158,6 +170,10 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [read more](./summersea.md#ice-wall)
 
+> ### Iphicrates
+> 
+> ...
+
 > ### Iroas
 > Iroas is the chaotic good God of Victory, symbolized by a winged helmet.
 > 
@@ -170,6 +186,10 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ---
 
 ## K
+
+> ### Kallisto
+>
+> ...
 
 > ### Karametra
 > Karametra is the neutral good Godess of Harvests, symbolized by a cornucopia.
@@ -239,6 +259,14 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [read more](summersea.md#marshes-of-malaria)
 
+> ### Marshes of Malária
+>
+> ...
+
+> ### Maxipolis
+>
+> ...
+
 > ### Mellisanthé the Cruel
 > <details><summary>SPOILER WARNING</summary><p>Leader of the Cult of Silence, the dark sorceress Mellisanthé seeks world domination and ultimate power.</p></details>
 >
@@ -281,6 +309,10 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > A province on the Northern Shores of the Summer Sea.
 >
 > [read more](./northernshores.md#province-of-okeánia)
+
+> ### Old Rootbeard
+>
+> ...
 
 ---
 
