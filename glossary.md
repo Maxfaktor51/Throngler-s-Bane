@@ -132,6 +132,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 ## G
 
+> ### Gambrinos
+> ...
+
 > ### Gate to Oblivion
 > The Gate to Oblivion is a giant hole in the ground between Okeanopolis and Barnaclae. None who ventured into it's dark depths have returned and their names forgotten with time.
 >
@@ -320,6 +323,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > A province on the Northern Shores of the Summer Sea.
 >
 > [read more](./northernshores.md#province-of-okeánia)
+
+> ### Oktogón
+> ...
 
 > ### Old Rootbeard
 >

@@ -9,22 +9,13 @@ The region is further split into three provinces [*Boréa*](#province-of-boréa)
 
 ---
 
+<img src="./images/highlight_borea.png" id="fright">
+
 ## Province of Boréa
 
-<div><img src="./images/highlight_borea.png" id="fright">
+[*Boréa*](./glossary.md#boréa) is the northern most province of the [*Western Shores*](./glossary.md#western-shores). Heropolis and the two dwarven citadels [*Oktogón*](./glossary.md#oktogón) and [*Gambrinos*](./glossary.md#gambrinos) can be found here, as well as the western half of the [*Dark Forest*](./glossary.md#dark-forest), the northern end of the [*Marshes of Malária*](./glossary.md#marshes-of-malária) and the [*Frostwind Steppe*](./glossary.md#frostwind-steppe).
 
-[*Boréa*](./glossary.md#boréa) is the northern most province of the [*Western Shores*](./glossary.md#western-shores). Heropolis and the two dwarven citadels Oktogón and Gambrinos can be found here, as well as the western half of the Dark forest, the northern end of the Marshes of Malaria and the Frostwind Steppe.</div>
-
-### Heropolis
-
-The largest city in Boréa, Heropolis lies deep in the [*Dark Forest*](./glossary.md#dark-forest) and is accessible only by dwarven tunnels and the sea. Being so close to the border, the city is often besieged by either side of the [*Three Kingdom War*](./glossary.md#three-kingdom-war).
-
-### Oktogón and Gambrinos
-
-The two remaining settled dwarven citadels on the surface, Oktogón and Gambrinos lay above the ancient dwarven highway that cross the Marshes of Malária.
-
-### Dark Forest
-### Frostwind Steppe
+Read more about [**Heropolis**](./heropolis.md) | [**Oktogón**](./dwarves.md#oktogón-citadel) and [**Gambrinos**](./dwarves.md#gambrinos-citadel) | [**Dark Forest**](./darkforest.md) | [**Marshes of Malária**](./marshesofmalaria.md) | [**Frostwind Steppe**](./frostwindsteppe.md)
 
 ---
 
