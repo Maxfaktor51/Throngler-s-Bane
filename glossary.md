@@ -16,6 +16,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [SPOILER WARNING](./morbogh.md#the-ancient-evil)
 
+> ### Asbesthós
+> ...
+
 > ### Athreos
 > Athreos is the lawful evil God of Passage, symbolized by the crescent moon.
 > 
@@ -86,6 +89,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 > ### Days of Rain of Fire and Death
 > Believed to have been caused by an arrow striking the Sun God's eye, countless flaming rocks fell from the heavens during the Days of Rain of Fire and Death, burning down fields and villages as well as damaging fortifications and causing incredible suffering throughout the Summer Sea.
+
+> ### Delphi
+> ...
 
 > ### Desert of Certain Death
 > The Desert of Certain Death lies in the south east of the Summer Sea and, as the name suggests, has claimed the lives of many adventurers who dared to enter this sea of sand. 
@@ -366,6 +372,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > 
 > [read more](./pantheon.md#purphoros)
 
+> ### Pylada
+> ...
+
 ---
 
 ## Q
@@ -387,6 +396,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > Called the Savage Lands by the civilized kingdoms this faction holds the southern territories as well as the remote steppes in the far east.
 >
 > [read more](./savagelands.md)
+
+> ### Sea of Drifting Ice
+> ...
 
 > ### Sea of Endless Ice
 > Covering almost the entire surface of the planet, this icy desert full of deep cracks and freezing blizzards provides a very hostile environment for anyone who dares explore it.
@@ -429,6 +441,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > A province on the western shores of the Summer Sea.
 >
 > [read more](./westernshores.md#province-of-théa)
+
+> ### Théapolis
+> ...
 
 > ### Three Kingdom War
 > Raging for nearly a decade now, the Three Kingdom War has since escalated into a confusing territorial battle between the three great factions.

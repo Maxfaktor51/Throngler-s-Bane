@@ -29,10 +29,25 @@ The region is further split into three provinces [*Boréa*](#province-of-boréa)
 
 ---
 
-## Province of Théa
-
 <img src="./images/highlight_thea.png" id="fright">
 
+## Province of Théa
+
+[*Théa*](./glossary.md#théa) is the southern most province of the [*Western Shores*](./westernshores.md). Its name-giving city of [*Théapolis*](./glossary.md#théapolis) can be found here along with the towns of [*Asbethós*](./glossary.md#asbesthós), [*Pylada*](./glossary.md#pylada) and [*Delphi*](./glossary.md#delphi) as well as the [*Sea of Drifting Ice*](./glossary.md#sea-of-drifting-ice). The longest river in the [*Summer Sea*](./glossary.md#summer-sea), [*Malaria*](./glossary.md#malaria-river) originates high in the mountains of [*Théa*](./glossary.md#théa). 
+
+> Read more about [**Théapolis**](./theapolis.md), [**Asbesthós**](./asbesthos.md), [**Pylada**](./pylada.md) and [**Delphi**](./delphi.md).
+
 ---
+
+## Islands
+
+There are four major islands at the Western Shores, ordered from north to south:
+
+* [**Kosinos**](./kosinos.md)
+* [**Tangenzos**](./tangenzos.md)
+* [**Sinos**](./sinos.md)
+* [**Kiffalón**](./kiffalon.md) 
+
+Although they legally belong to the province of Malária, they are each quasi independent. You can click on their names in the list to read more about them.
 
 Go back [**Index**](./index.md) | [**Places**](./places.md)
