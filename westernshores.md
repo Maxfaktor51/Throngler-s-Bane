@@ -15,7 +15,7 @@ The region is further split into three provinces [*Boréa*](#province-of-boréa)
 
 [*Boréa*](./glossary.md#boréa) is the northern most province of the [*Western Shores*](./glossary.md#western-shores). Heropolis and the two dwarven citadels [*Oktogón*](./glossary.md#oktogón) and [*Gambrinos*](./glossary.md#gambrinos) can be found here, as well as the western half of the [*Dark Forest*](./glossary.md#dark-forest), the northern end of the [*Marshes of Malária*](./glossary.md#marshes-of-malária) and the [*Frostwind Steppe*](./glossary.md#frostwind-steppe).
 
-> Read more about [**Heropolis**](./heropolis.md), [**Oktogón**](./dwarves.md#oktogón-citadel), [**Gambrinos**](./dwarves.md#gambrinos-citadel), [**Dark Forest**](./darkforest.md), [**Marshes of Malária**](./marshesofmalaria.md) and the [**Frostwind Steppe**](./frostwindsteppe.md).
+Read more about [**Heropolis**](./heropolis.md), [**Oktogón**](./dwarves.md#oktogón-citadel), [**Gambrinos**](./dwarves.md#gambrinos-citadel), [**Dark Forest**](./darkforest.md), [**Marshes of Malária**](./marshesofmalaria.md) and the [**Frostwind Steppe**](./frostwindsteppe.md).
 
 ---
 
@@ -25,7 +25,7 @@ The region is further split into three provinces [*Boréa*](#province-of-boréa)
 
 [*Malária*](./glossary.md#malária) is the central province of the [*Western Shores*](./glossary.md#western-shores). The capitol of the [*Kingdom of Nabla*](./glossary.md#kingdom-of-nabla), [*Maxipolis*](./glossary.md#maxipolis), the towns of [*Brekéke*](./glossary.md#brekéke) and [*Phoíbi*](./glossary.md#phoíbi) and the majority of the infamous [*Marshes of Malária*](./glossary.md#marshes-of-malária) can be found here along with the name-giving and longest river in the [*Summer Sea*](./glossary.md#summer-sea), [*Malaria*](./glossary.md#malaria-river).
 
-> Read more about [**Maxipolis**](./maxipolis.md), [**Brekéke**](./brekeke.md), [**Phoíbi**](./phoibi.md) and the [**Marshes of Malária**](./marshesofmalaria.md).
+Read more about [**Maxipolis**](./maxipolis.md), [**Brekéke**](./brekeke.md), [**Phoíbi**](./phoibi.md) and the [**Marshes of Malária**](./marshesofmalaria.md).
 
 ---
 
@@ -35,7 +35,7 @@ The region is further split into three provinces [*Boréa*](#province-of-boréa)
 
 [*Théa*](./glossary.md#théa) is the southern most province of the [*Western Shores*](./westernshores.md). Its name-giving city of [*Théapolis*](./glossary.md#théapolis) can be found here along with the towns of [*Asbethós*](./glossary.md#asbesthós), [*Pylada*](./glossary.md#pylada) and [*Delphi*](./glossary.md#delphi) as well as the [*Sea of Drifting Ice*](./glossary.md#sea-of-drifting-ice). The longest river in the [*Summer Sea*](./glossary.md#summer-sea), [*Malaria*](./glossary.md#malaria-river) originates high in the mountains of [*Théa*](./glossary.md#théa). 
 
-> Read more about [**Théapolis**](./theapolis.md), [**Asbesthós**](./asbesthos.md), [**Pylada**](./pylada.md) and [**Delphi**](./delphi.md).
+Read more about [**Théapolis**](./theapolis.md), [**Asbesthós**](./asbesthos.md), [**Pylada**](./pylada.md) and [**Delphi**](./delphi.md).
 
 ---
 
@@ -49,5 +49,7 @@ There are four major islands at the Western Shores, ordered from north to south:
 * [**Kiffalón**](./kiffalon.md) 
 
 Although they legally belong to the province of Malária, they are each quasi independent. You can click on their names in the list to read more about them.
+
+---
 
 Go back [**Index**](./index.md) | [**Places**](./places.md)
