@@ -48,9 +48,9 @@ Led by [*Old Rootbeard*](./glossary.md#old-rootbeard), the pirates rededicated t
 
 At the docks of [*Brekéke*](./glossary.md#brekéke) there is also a humble but busy shrine to [*Thassa*](./glossary.md#thassa), the godess of the sea and to [*Mogis*](./glossary.md#mogis), the god of slaughter.
 
-![Iphicrates Floating Store](./images/img043_banner.png)
-
 ---
+
+![Iphicrates Floating Store](./images/img043_banner.png)
 
 ## Iphicrates' Floating Store
 

@@ -49,9 +49,13 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [SPOILER WARNING](./castlequeblekh.md)
 
+> ### Centaur
+>
+> ... 
+
 > ### Cleansing Wind 
 > <details><summary>SPOILER WARNING</summary><p>The Cleansing Wind is a powerful storm send by the gods themselves to purge the summer sea. Some believe the storm is formed around a magical beast in the center of it while other say the storm itself is sentient.
-> </p></details>
+</p></details>
 
 > ### Cult of Silence
 > The Cult of Silence is a mysterious organisation that works in the shadows to execute their master plan.
@@ -73,6 +77,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 > ### Dark Age of Confusion
 > After an unexcpeted shift in the heavens caused the old calendar to become obsolete, the entire population of the Summer Sea has lost track of time. As such noone can tell how long it took until a the new calendar has been established and time could be measured again.
+
+> ### Dark Forest
+> ...
 
 > ### Darkness before Time
 > Considered blasphemy by the general public, the Darkness before Time is considered to be the time period before the Gods even created the World. 
@@ -114,6 +121,10 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ## F
 
 > ### Frogleg Tavern
+>
+> ...
+
+> ### Frostwind Steppe
 >
 > ...
 

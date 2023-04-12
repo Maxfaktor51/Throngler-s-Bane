@@ -63,4 +63,4 @@ It is unknown what lies beyond the [*Ice Wall*](./glossary.md#ice-wall). Numerou
 
 ---
 
-Go back: [Index](./index.md)
+Go back [**Index**](./index.md)
