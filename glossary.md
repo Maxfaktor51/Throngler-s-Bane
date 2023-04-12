@@ -353,6 +353,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Philosophers of Pi
 > A noble society of elders, thinkers and scientists residing in the city o Pi.
 
+> ### Phoíbi
+> ...
+
 > ### Prince Morbogh of Eternal Doom
 > <details><summary>SPOILER WARNING</summary><p>Morbogh is a prince of the Ancient Evil from the Darkness before time.</p></details>
 >

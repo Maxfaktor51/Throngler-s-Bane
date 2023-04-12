@@ -15,17 +15,17 @@ The region is further split into three provinces [*Boréa*](#province-of-boréa)
 
 [*Boréa*](./glossary.md#boréa) is the northern most province of the [*Western Shores*](./glossary.md#western-shores). Heropolis and the two dwarven citadels [*Oktogón*](./glossary.md#oktogón) and [*Gambrinos*](./glossary.md#gambrinos) can be found here, as well as the western half of the [*Dark Forest*](./glossary.md#dark-forest), the northern end of the [*Marshes of Malária*](./glossary.md#marshes-of-malária) and the [*Frostwind Steppe*](./glossary.md#frostwind-steppe).
 
-Read more about [**Heropolis**](./heropolis.md) | [**Oktogón**](./dwarves.md#oktogón-citadel) and [**Gambrinos**](./dwarves.md#gambrinos-citadel) | [**Dark Forest**](./darkforest.md) | [**Marshes of Malária**](./marshesofmalaria.md) | [**Frostwind Steppe**](./frostwindsteppe.md)
+> Read more about [**Heropolis**](./heropolis.md), [**Oktogón**](./dwarves.md#oktogón-citadel), [**Gambrinos**](./dwarves.md#gambrinos-citadel), [**Dark Forest**](./darkforest.md), [**Marshes of Malária**](./marshesofmalaria.md) and the [**Frostwind Steppe**](./frostwindsteppe.md).
 
 ---
 
-## Province of Malária
-
 <img src="./images/highlight_malaria.png" id="fleft">
 
-### Town of Brekéke
+## Province of Malária
 
-[**read more**](./brekeke.md)
+[*Malária*](./glossary.md#malária) is the central province of the [*Western Shores*](./glossary.md#western-shores). The capitol of the [*Kingdom of Nabla*](./glossary.md#kingdom-of-nabla), [*Maxipolis*](./glossary.md#maxipolis), the towns of [*Brekéke*](./glossary.md#brekéke) and [*Phoíbi*](./glossary.md#phoíbi) and the majority of the infamous [*Marshes of Malária*](./glossary.md#marshes-of-malária) can be found here along with the name-giving and longest river in the [*Summer Sea*](./glossary.md#summer-sea), [*Malaria*](./glossary.md#malaria-river).
+
+> Read more about [**Maxipolis**](./maxipolis.md), [**Brekéke**](./brekeke.md), [**Phoíbi**](./phoibi.md) and the [**Marshes of Malária**](./marshesofmalaria.md).
 
 ---
 
