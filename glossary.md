@@ -317,7 +317,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ...
 
 > ### Maxipolis
->
+> ...
+
+> ### Maxos
 > ...
 
 > ### Mellisanthé the Cruel

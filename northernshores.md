@@ -37,7 +37,7 @@ Read more about [**Narcopolis**](./narcopolis.md), [**Thassébes**](./thassebes.
 
 ## Islands
 
-While there are many small and [*wandering isles*](./glossary.md#wandering-isles) in the waters of the [*Northern Shores*](./glossary.md#northern-shores) there is only one, major settled island, [**Maxos**](./maxos.md). Legally it belongs to the province of [*Khyría*](./glossary.md#khyría) eventhough geographically it is closer to [*Hyppónia*](./glossary.md#hyppónia).
+While there are many small and [*wandering isles*](./glossary.md#wandering-isles) in the waters of the [*Northern Shores*](./glossary.md#northern-shores) there is only one, major settled island, [**Maxos**](./maxos.md). Eventhough geographically it is closer to [*Hyppónia*](./glossary.md#hyppónia), [*Maxos*](./glossary.md#maxos) legally belongs to the province of [*Khyría*](./glossary.md#khyría).
 
 ---
 
