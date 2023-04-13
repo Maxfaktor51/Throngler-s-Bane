@@ -16,6 +16,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [SPOILER WARNING](./morbogh.md#the-ancient-evil)
 
+> ### Annikha
+> ...
+
 > ### Asbesthós
 > ...
 
@@ -50,7 +53,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Castle Queblekh
 > Castle Queblekh is an ancient underground fortress in the caves beneath the Cyclops Mountains
 >
-> [SPOILER WARNING](./castlequeblekh.md)
+> [SPOILER WARNING](./castleQueblekh.md)
 
 > ### Centaur
 >
@@ -172,6 +175,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > Heliod is the lawful good God of the Sun, symbolized by a laurel crown.
 > 
 > [read more](./pantheon.md#heliod)
+
+> ### Heropolis
+> ...
 
 > ### Horsemen Mountains
 > The homeland of the Centaurs, on the east end of the Northern Shores

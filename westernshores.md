@@ -13,9 +13,9 @@ The region is further split into three provinces [*Boréa*](#province-of-boréa)
 
 ## Province of Boréa
 
-[*Boréa*](./glossary.md#boréa) is the northern most province of the [*Western Shores*](./glossary.md#western-shores). Heropolis and the two dwarven citadels [*Oktogón*](./glossary.md#oktogón) and [*Gambrinos*](./glossary.md#gambrinos) can be found here, as well as the western half of the [*Dark Forest*](./glossary.md#dark-forest), the northern end of the [*Marshes of Malária*](./glossary.md#marshes-of-malária) and the [*Frostwind Steppe*](./glossary.md#frostwind-steppe).
+[*Boréa*](./glossary.md#boréa) is the northern most province of the [*Western Shores*](./glossary.md#western-shores). [*Heropolis*](./glossary.md#heropolis), [*Annikha*](./glossary.md#annikha) and the two dwarven citadels [*Oktogón*](./glossary.md#oktogón) and [*Gambrinos*](./glossary.md#gambrinos) can be found here, as well as the western half of the [*Dark Forest*](./glossary.md#dark-forest), the northern end of the [*Marshes of Malária*](./glossary.md#marshes-of-malária) and the [*Frostwind Steppe*](./glossary.md#frostwind-steppe).
 
-Read more about [**Heropolis**](./heropolis.md), [**Oktogón**](./dwarves.md#oktogón-citadel), [**Gambrinos**](./dwarves.md#gambrinos-citadel), [**Dark Forest**](./darkforest.md), [**Marshes of Malária**](./marshesofmalaria.md) and the [**Frostwind Steppe**](./frostwindsteppe.md).
+Read more about [**Heropolis**](./heropolis.md), [**Annikha**](./darkforest.md#the-town-of-annikha) [**Oktogón**](./dwarves.md#oktogón-citadel), [**Gambrinos**](./dwarves.md#gambrinos-citadel), [**Dark Forest**](./darkforest.md), [**Marshes of Malária**](./marshesofmalaria.md) and the [**Frostwind Steppe**](./frostwindsteppe.md).
 
 ---
 
