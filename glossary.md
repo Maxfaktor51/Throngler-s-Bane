@@ -32,6 +32,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 
 ## B
 
+> ### Barnaclae
+> ...
+
 > ### Boréa
 > A province on the western Shores of the Summer Sea.
 >
@@ -55,8 +58,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [SPOILER WARNING](./castleQueblekh.md)
 
-> ### Centaur
->
+> ### Centaurs
 > ... 
 
 > ### Cleansing Wind 
@@ -69,13 +71,15 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [SPOILER WARNIG](./cultofsilence.md)
 
 > ### Curse of the Swamp
->
 > ...
 
 > ### Cyclops Mountains
 > North of Okeanopolis are the Cyclops Mountains, home of huge one-eyed beasts who like to feast on careless travelers.
 >
 > [read more](./summersea.md#cyclops-mountains)
+
+> ### Cyclops
+> ...
 
 ---
 
@@ -101,6 +105,12 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [read more](./summersea.md#desert-of-certain-death)
 
+> ### Dóros
+> ...
+
+> ### Dwarves
+> ...
+
 ---
 
 ## E
@@ -109,6 +119,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > The Ebóla River is the second longest river flowing into the northern parts of the Marshes of Malaria. Infested with many dangerous animals it remains a favorite target for trophy hunters.
 >
 > [read more](./summer_sea.md#marshes-of-malaria)
+
+> ### Elves
+> ...
 
 > ### Ephara
 > Ephara is the lawful good Goddess of Culture and Civics, symbolized by a golden column.
@@ -182,10 +195,19 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > ### Horsemen Mountains
 > The homeland of the Centaurs, on the east end of the Northern Shores
 
+> ### Humans
+> ...
+
+> ### Hydropolis
+> ...
+
 > ### Hyppónia
 > A province on the Northern Shores of the Summer Sea
 >
 > [read more](./northernshores.md#province-of-hyppónia)
+
+> ### Hyppopolis
+> ...
 
 ---
 
@@ -196,8 +218,10 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [read more](./summersea.md#ice-wall)
 
+> ### Ícosaedrai
+> ...
+
 > ### Iphicrates
-> 
 > ...
 
 > ### Iroas
@@ -228,7 +252,7 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > [read more](./pantheon.md#keranos)
 
 > ### Khyría
-> A province on the Northern Shores of the Summer Sea.
+> A province as well as a town on the Northern Shores of the Summer Sea.
 >
 > [read more](./northernshores.md#province-of-khyría)
 
@@ -236,6 +260,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > The biggest island in the East Summer Sea, Kiffalón is famous for it's mellow inhabitants.
 >
 > [read more](./summersea.md#kiffalón)
+
+> ### King Summant
+> ...
 
 > ### Kingdom of Epsylón
 > Spanning from Dóros in the west all the way to Hyppopolis in the west along the northern shores of the Summer Sea lies the Kingdom of Epsylón, one of the three great factions.
@@ -298,6 +325,12 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 >
 > [SPOILER WARNING](./mellisanthe.md)
 
+> ### Mínas Falathrén
+> ...
+
+> ### Mínas Rhíw
+> ...
+
 > ### Mogis
 > Mogis is the chaotic evil God of Slaughter, symbolized by a four-horned bulls head.
 > 
@@ -306,6 +339,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 ---
 
 ## N
+
+> ### Narcopolis
+> ...
 
 > ### Necrón
 > Also called the *Lands of the Dead*, Necrón province in the far east of the Southern Shores.
@@ -335,6 +371,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > A province on the Northern Shores of the Summer Sea.
 >
 > [read more](./northernshores.md#province-of-okeánia)
+
+> ### Okeánopolis
+> ...
 
 > ### Oktogón
 > ...
@@ -442,6 +481,9 @@ This is a glossary of all highlighted terms. Some have dedicated pages with furt
 > Thassa is the true neutral Godess of the Sea, symbolized by the crests of waves.
 > 
 > [read more](./pantheon.md#thassa)
+
+> ### Thassébes
+> ...
 
 > ### Théa
 > A province on the western shores of the Summer Sea.
