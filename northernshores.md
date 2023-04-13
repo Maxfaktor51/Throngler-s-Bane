@@ -19,7 +19,7 @@ Read more about [**Okeánopolis**](./okeanopolis.md), [**Dóros**](./darkforest.
 
 ## Province of Khyría
 
-[*Khyría*](./glossary.md#khyría) is the central province of the [*Northern Shores*](./glossary.md#northern-shores). The city of [*Hydropolis*](./glossary.md#hydropolis) along with the name giving town of [*Khyría*](./glossary.md#khyría) and [*Pí*](./glossary.md#pí) can be found here as well as the [*Great Glacier*](./glossary.md#great-glacier) in the north.
+[*Khyría*](./glossary.md#khyría) is the central province of the [*Northern Shores*](./glossary.md#northern-shores). The city of [*Hydropolis*](./glossary.md#hydropolis) along with the provinces name giving town of [*Khyría*](./glossary.md#khyría) and the circular city of [*Pí*](./glossary.md#pí) can be found here as well as the [*Great Glacier*](./glossary.md#great-glacier) in the north.
 
 Read more about [**Hydropolis**](./hydropolis.md), [**Khyría**](./khyria.md), [**Pí**](./maxos.md#the-town-of-pí) and the [**Great Glacier**](./khyria.md#the-great-glacier).
 
@@ -29,7 +29,7 @@ Read more about [**Hydropolis**](./hydropolis.md), [**Khyría**](./khyria.md), [
 
 ## Province of Hyppónia
 
-[*Hyppónia*](./glossary.md#hyppónia) is the coldest and easternmost province of the [*Northern Shores*](./glossary.md#northern-shores). The city of [*Narcopolis*](./glossary.md#narcopolis), the towns of [*Thassébes*](./glossary.md#thassébes), [*Ícosaedrai*](./glossary.md#ícosaedrai) and [*Hyppopolis*](./glossary.md#hyppopolis) as well as the ancient elven settlements of [*Mínas Rhíw*](./glossary.md#mínas-rhíw) and [*Mínas Falathren*](./glossary.md#mínas-falathren) can be found here along with the mighty [*Horsemen Mountains*](./glossary.md#horsemen-mountains) to the far east.
+[*Hyppónia*](./glossary.md#hyppónia) is the coldest and easternmost province of the [*Northern Shores*](./glossary.md#northern-shores). The city of [*Narcopolis*](./glossary.md#narcopolis), the towns of [*Thassébes*](./glossary.md#thassébes), [*Ícosaedrai*](./glossary.md#ícosaedrai) and [*Hyppopolis*](./glossary.md#hyppopolis) as well as the elven settlements of [*Mínas Rhíw*](./glossary.md#mínas-rhíw) and [*Mínas Falathren*](./glossary.md#mínas-falathren) can be found here along with the mighty [*Horsemen Mountains*](./glossary.md#horsemen-mountains).
 
 Read more about [**Narcopolis**](./narcopolis.md), [**Thassébes**](./thassebes.md), [**Ícosaedrai**](./icosaedrai.md), the [**elven settlements**](./silentSea.md#mínas-falathren) and the [**Horsemen Mountains**](./horsemenMountains.md)
 
